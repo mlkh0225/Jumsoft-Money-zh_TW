@@ -7765,7 +7765,7 @@
 												<object class="NSButtonCell" key="NSCell" id="635444340">
 													<int key="NSCellFlags">67108864</int>
 													<int key="NSCellFlags2">134217728</int>
-													<string key="NSContents">Disconnect from Dropbox</string>
+													<string key="NSContents">取消連結 Dropbox</string>
 													<reference key="NSSupport" ref="1046693346"/>
 													<reference key="NSControlView" ref="297144817"/>
 													<int key="NSButtonFlags">-2038284288</int>

@@ -56,14 +56,14 @@
 						<object class="NSButton" id="2687180">
 							<reference key="NSNextResponder" ref="1006"/>
 							<int key="NSvFlags">268</int>
-							<string key="NSFrame">{{373, 13}, {183, 32}}</string>
+							<string key="NSFrame">{{430, 13}, {126, 32}}</string>
 							<reference key="NSSuperview" ref="1006"/>
 							<string key="NSReuseIdentifierKey">_NS:9</string>
 							<bool key="NSEnabled">YES</bool>
 							<object class="NSButtonCell" key="NSCell" id="430147611">
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">134217728</int>
-								<string key="NSContents">Connect with Dropbox</string>
+								<string key="NSContents">連結 Dropbox</string>
 								<object class="NSFont" key="NSSupport" id="213260662">
 									<string key="NSName">LucidaGrande</string>
 									<double key="NSSize">13</double>
@@ -83,7 +83,7 @@
 						<object class="NSButton" id="420093078">
 							<reference key="NSNextResponder" ref="1006"/>
 							<int key="NSvFlags">268</int>
-							<string key="NSFrame">{{307, 13}, {66, 32}}</string>
+							<string key="NSFrame">{{364, 13}, {66, 32}}</string>
 							<reference key="NSSuperview" ref="1006"/>
 							<reference key="NSNextKeyView" ref="2687180"/>
 							<string key="NSReuseIdentifierKey">_NS:9</string>

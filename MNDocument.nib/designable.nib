@@ -197,7 +197,7 @@
                                                                                     <color key="backgroundColor" white="0.33333299" alpha="1" colorSpace="calibratedWhite"/>
                                                                                 </tableHeaderCell>
                                                                                 <textFieldCell key="dataCell" alignment="left" title="Text Cell" id="7878" customClass="MNProgressIndicatorCell">
-                                                                                    <font key="font" size="12" name="LucidaGrande"/>
+                                                                                    <font key="font" metaFont="cellTitle"/>
                                                                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                                                                     <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
                                                                                 </textFieldCell>
@@ -365,8 +365,8 @@
                                                                                                                     <menu key="menu" title="OtherViews" id="10067">
                                                                                                                         <items>
                                                                                                                             <menuItem state="on" image="bill_label_red" hidden="YES" id="10068"/>
-                                                                                                                            <menuItem title="Item 2" id="10069"/>
-                                                                                                                            <menuItem title="Item 3" id="10070"/>
+                                                                                                                            <menuItem title="項目 2" id="10069"/>
+                                                                                                                            <menuItem title="項目 3" id="10070"/>
                                                                                                                         </items>
                                                                                                                     </menu>
                                                                                                                 </popUpButtonCell>
@@ -1042,8 +1042,8 @@
                                                                                                                     <menu key="menu" title="OtherViews" id="10085">
                                                                                                                         <items>
                                                                                                                             <menuItem state="on" image="bill_label_red" hidden="YES" id="10088"/>
-                                                                                                                            <menuItem title="Item 2" id="10087"/>
-                                                                                                                            <menuItem title="Item 3" id="10086"/>
+                                                                                                                            <menuItem title="項目 2" id="10087"/>
+                                                                                                                            <menuItem title="項目 3" id="10086"/>
                                                                                                                         </items>
                                                                                                                     </menu>
                                                                                                                 </popUpButtonCell>
@@ -1112,7 +1112,9 @@
                                                                                             <webView hidden="YES" id="5718">
                                                                                                 <rect key="frame" x="491" y="40" width="99" height="218"/>
                                                                                                 <autoresizingMask key="autoresizingMask"/>
-                                                                                                <webPreferences key="preferences" defaultFontSize="12" defaultFixedFontSize="12"/>
+                                                                                                <webPreferences key="preferences" defaultFontSize="12" defaultFixedFontSize="12">
+                                                                                                    <nil key="identifier"/>
+                                                                                                </webPreferences>
                                                                                             </webView>
                                                                                         </subviews>
                                                                                         <connections>
@@ -1348,7 +1350,7 @@
                                                                                                                 <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
                                                                                                             </clipView>
                                                                                                             <scroller key="horizontalScroller" verticalHuggingPriority="750" id="9174">
-                                                                                                                <rect key="frame" x="0.0" y="434" width="575" height="15"/>
+                                                                                                                <rect key="frame" x="0.0" y="433" width="575" height="16"/>
                                                                                                                 <autoresizingMask key="autoresizingMask"/>
                                                                                                             </scroller>
                                                                                                             <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" id="9175">
@@ -1946,7 +1948,7 @@
                                                                                                                     <calendarDate key="date" timeIntervalSinceReferenceDate="-595929600" calendarFormat="%Y-%m-%d %H:%M:%S %z">
                                                                                                                         <!--1982-02-12 08:00:00 -0800-->
                                                                                                                         <timeZone key="timeZone" name="US/Pacific">
-                                                                                                                            <mutableData key="data">
+                                                                                                                            <data key="data">
 VFppZgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAC5AAAABAAAABCepkign7sVkKCGKqChmveQ
 y4kaoNIj9HDSYSYQ1v50INiArZDa/tGg28CQENzes6DdqayQ3r6VoN+JjpDgnneg4WlwkOJ+WaDjSVKQ
 5F47oOUpNJDmR1gg5xJREOgnOiDo8jMQ6gccIOrSFRDr5v4g7LH3EO3G4CDukdkQ76/8oPBxuxDxj96g
@@ -1964,7 +1966,7 @@ f5gqkAABAAECAwEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
-</mutableData>
+</data>
                                                                                                                         </timeZone>
                                                                                                                     </calendarDate>
                                                                                                                     <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
@@ -1979,7 +1981,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                                     <calendarDate key="date" timeIntervalSinceReferenceDate="-595929600" calendarFormat="%Y-%m-%d %H:%M:%S %z">
                                                                                                                         <!--1982-02-12 08:00:00 -0800-->
                                                                                                                         <timeZone key="timeZone" name="US/Pacific">
-                                                                                                                            <mutableData key="data">
+                                                                                                                            <data key="data">
 VFppZgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAC5AAAABAAAABCepkign7sVkKCGKqChmveQ
 y4kaoNIj9HDSYSYQ1v50INiArZDa/tGg28CQENzes6DdqayQ3r6VoN+JjpDgnneg4WlwkOJ+WaDjSVKQ
 5F47oOUpNJDmR1gg5xJREOgnOiDo8jMQ6gccIOrSFRDr5v4g7LH3EO3G4CDukdkQ76/8oPBxuxDxj96g
@@ -1997,7 +1999,7 @@ f5gqkAABAAECAwEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
-</mutableData>
+</data>
                                                                                                                         </timeZone>
                                                                                                                     </calendarDate>
                                                                                                                     <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
@@ -2704,7 +2706,9 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                             <webView id="8801">
                                                                                                 <rect key="frame" x="0.0" y="0.0" width="576" height="508"/>
                                                                                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                                                                <webPreferences key="preferences" defaultFontSize="12" defaultFixedFontSize="12"/>
+                                                                                                <webPreferences key="preferences" defaultFontSize="12" defaultFixedFontSize="12">
+                                                                                                    <nil key="identifier"/>
+                                                                                                </webPreferences>
                                                                                             </webView>
                                                                                             <customView id="8800" customClass="MNWebBankTopView">
                                                                                                 <rect key="frame" x="0.0" y="697" width="576" height="34"/>
@@ -2791,7 +2795,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                 <rect key="frame" x="320" y="227" width="236" height="16"/>
                                                                                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
                                                                                                 <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="無" id="9851">
-                                                                                                    <font key="font" size="12" name="LucidaGrande"/>
+                                                                                                    <font key="font" metaFont="cellTitle"/>
                                                                                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                                                                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                                                                                 </textFieldCell>
@@ -2845,7 +2849,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                 <rect key="frame" x="320" y="251" width="236" height="16"/>
                                                                                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
                                                                                                 <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="_" id="9843">
-                                                                                                    <font key="font" size="12" name="LucidaGrande"/>
+                                                                                                    <font key="font" metaFont="cellTitle"/>
                                                                                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                                                                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                                                                                 </textFieldCell>
@@ -2858,7 +2862,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                 <rect key="frame" x="164" y="179" width="245" height="16"/>
                                                                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES"/>
                                                                                                 <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="(do not localize) Syncing ..." id="9910">
-                                                                                                    <font key="font" size="12" name="LucidaGrande"/>
+                                                                                                    <font key="font" metaFont="cellTitle"/>
                                                                                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                                                                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                                                                                 </textFieldCell>
@@ -2895,7 +2899,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                 <rect key="frame" x="-3" y="388" width="581" height="16"/>
                                                                                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
                                                                                                 <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="center" title="到裝置 &quot;設定 -> 同步 -> 設定資料庫&quot; 並輸入顯示的代碼。" id="9815">
-                                                                                                    <font key="font" size="12" name="LucidaGrande"/>
+                                                                                                    <font key="font" metaFont="cellTitle"/>
                                                                                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                                                                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                                                                                 </textFieldCell>
@@ -3417,7 +3421,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                                                                                             <subviews>
                                                                                                                 <customView id="1744" customClass="MNInspectorResizableView">
-                                                                                                                    <rect key="frame" x="0.0" y="140" width="244" height="700"/>
+                                                                                                                    <rect key="frame" x="0.0" y="0.0" width="244" height="700"/>
                                                                                                                     <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
                                                                                                                     <subviews>
                                                                                                                         <customView id="7276" customClass="MNSegmentedLabelsChooserView">
@@ -3551,7 +3555,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                                                         <rect key="frame" x="-100" y="-100" width="210" height="15"/>
                                                                                                                                         <autoresizingMask key="autoresizingMask"/>
                                                                                                                                     </scroller>
-                                                                                                                                    <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" id="1771">
+                                                                                                                                    <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" id="1771">
                                                                                                                                         <rect key="frame" x="-100" y="-100" width="15" height="102"/>
                                                                                                                                         <autoresizingMask key="autoresizingMask"/>
                                                                                                                                     </scroller>
@@ -3660,7 +3664,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                                                                 <rect key="frame" x="-100" y="-100" width="210" height="15"/>
                                                                                                                                                 <autoresizingMask key="autoresizingMask"/>
                                                                                                                                             </scroller>
-                                                                                                                                            <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" id="1755">
+                                                                                                                                            <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" id="1755">
                                                                                                                                                 <rect key="frame" x="-100" y="-100" width="15" height="102"/>
                                                                                                                                                 <autoresizingMask key="autoresizingMask"/>
                                                                                                                                             </scroller>
@@ -3712,7 +3716,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                             <rect key="frame" x="-100" y="-100" width="247" height="15"/>
                                                                                                             <autoresizingMask key="autoresizingMask"/>
                                                                                                         </scroller>
-                                                                                                        <scroller key="verticalScroller" verticalHuggingPriority="750" id="1746">
+                                                                                                        <scroller key="verticalScroller" verticalHuggingPriority="750" doubleValue="1" id="1746">
                                                                                                             <rect key="frame" x="243" y="0.0" width="16" height="589"/>
                                                                                                             <autoresizingMask key="autoresizingMask"/>
                                                                                                         </scroller>
@@ -4067,7 +4071,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                             <autoresizingMask key="autoresizingMask"/>
                                                                                                             <subviews>
                                                                                                                 <customView id="2587" customClass="MNInspectorResizableView">
-                                                                                                                    <rect key="frame" x="0.0" y="42" width="259" height="700"/>
+                                                                                                                    <rect key="frame" x="0.0" y="0.0" width="259" height="700"/>
                                                                                                                     <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
                                                                                                                     <subviews>
                                                                                                                         <customView id="2817" customClass="MNSegmentedLabelsChooserView">
@@ -4328,7 +4332,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                                                         <rect key="frame" x="-100" y="-100" width="210" height="15"/>
                                                                                                                                         <autoresizingMask key="autoresizingMask"/>
                                                                                                                                     </scroller>
-                                                                                                                                    <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" id="2593">
+                                                                                                                                    <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" id="2593">
                                                                                                                                         <rect key="frame" x="-100" y="-100" width="15" height="102"/>
                                                                                                                                         <autoresizingMask key="autoresizingMask"/>
                                                                                                                                     </scroller>
@@ -4493,7 +4497,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                                                                 <rect key="frame" x="-100" y="-100" width="210" height="15"/>
                                                                                                                                                 <autoresizingMask key="autoresizingMask"/>
                                                                                                                                             </scroller>
-                                                                                                                                            <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" id="2608">
+                                                                                                                                            <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" id="2608">
                                                                                                                                                 <rect key="frame" x="-100" y="-100" width="15" height="102"/>
                                                                                                                                                 <autoresizingMask key="autoresizingMask"/>
                                                                                                                                             </scroller>
@@ -4510,7 +4514,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                             <rect key="frame" x="-100" y="-100" width="247" height="15"/>
                                                                                                             <autoresizingMask key="autoresizingMask"/>
                                                                                                         </scroller>
-                                                                                                        <scroller key="verticalScroller" verticalHuggingPriority="750" id="2585">
+                                                                                                        <scroller key="verticalScroller" verticalHuggingPriority="750" doubleValue="1" id="2585">
                                                                                                             <rect key="frame" x="244" y="0.0" width="15" height="390"/>
                                                                                                             <autoresizingMask key="autoresizingMask"/>
                                                                                                         </scroller>
@@ -4567,7 +4571,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                                                         <buttonCell key="cell" type="roundRect" title="編輯" bezelStyle="roundedRect" alignment="center" state="on" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="4344">
                                                                                                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
-                                                                                                            <font key="font" size="12" name="LucidaGrande"/>
+                                                                                                            <font key="font" metaFont="cellTitle"/>
                                                                                                         </buttonCell>
                                                                                                         <connections>
                                                                                                             <action selector="transactionInspectorDoneEditAction:" target="461" id="4459"/>
@@ -4783,7 +4787,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                                                                     <color key="backgroundColor" white="0.33333298560000002" alpha="1" colorSpace="calibratedWhite"/>
                                                                                                                                                 </tableHeaderCell>
                                                                                                                                                 <textFieldCell key="dataCell" lineBreakMode="truncatingTail" selectable="YES" editable="YES" alignment="left" title="Text Cell" id="10559" customClass="MNTextFieldCellNoHighlight">
-                                                                                                                                                    <font key="font" size="12" name="LucidaGrande"/>
+                                                                                                                                                    <font key="font" metaFont="cellTitle"/>
                                                                                                                                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                                                                                                                                     <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
                                                                                                                                                 </textFieldCell>
@@ -4880,7 +4884,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                                                         <buttonCell key="cell" type="roundRect" title="編輯" bezelStyle="roundedRect" alignment="center" state="on" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="5565">
                                                                                                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
-                                                                                                            <font key="font" size="12" name="LucidaGrande"/>
+                                                                                                            <font key="font" metaFont="cellTitle"/>
                                                                                                         </buttonCell>
                                                                                                     </button>
                                                                                                     <scrollView borderType="none" autohidesScrollers="YES" horizontalLineScroll="10" horizontalPageScroll="10" verticalLineScroll="10" verticalPageScroll="10" hasHorizontalScroller="NO" usesPredominantAxisScrolling="NO" id="5563" customClass="MNScrollViewWithShadow">
@@ -4973,7 +4977,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                                                         <rect key="frame" x="-100" y="-100" width="210" height="15"/>
                                                                                                                                         <autoresizingMask key="autoresizingMask"/>
                                                                                                                                     </scroller>
-                                                                                                                                    <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" id="5577">
+                                                                                                                                    <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" id="5577">
                                                                                                                                         <rect key="frame" x="-100" y="-100" width="15" height="102"/>
                                                                                                                                         <autoresizingMask key="autoresizingMask"/>
                                                                                                                                     </scroller>
@@ -5059,7 +5063,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                                                         <rect key="frame" x="-100" y="-100" width="210" height="15"/>
                                                                                                                                         <autoresizingMask key="autoresizingMask"/>
                                                                                                                                     </scroller>
-                                                                                                                                    <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" id="5624">
+                                                                                                                                    <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" id="5624">
                                                                                                                                         <rect key="frame" x="-100" y="-100" width="15" height="102"/>
                                                                                                                                         <autoresizingMask key="autoresizingMask"/>
                                                                                                                                     </scroller>
@@ -5145,7 +5149,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                                                         <rect key="frame" x="-100" y="-100" width="210" height="15"/>
                                                                                                                                         <autoresizingMask key="autoresizingMask"/>
                                                                                                                                     </scroller>
-                                                                                                                                    <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" id="5637">
+                                                                                                                                    <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" id="5637">
                                                                                                                                         <rect key="frame" x="-100" y="-100" width="15" height="102"/>
                                                                                                                                         <autoresizingMask key="autoresizingMask"/>
                                                                                                                                     </scroller>
@@ -5231,7 +5235,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                                                                                                         <rect key="frame" x="-100" y="-100" width="210" height="15"/>
                                                                                                                                         <autoresizingMask key="autoresizingMask"/>
                                                                                                                                     </scroller>
-                                                                                                                                    <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" id="5652">
+                                                                                                                                    <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" id="5652">
                                                                                                                                         <rect key="frame" x="-100" y="-100" width="15" height="102"/>
                                                                                                                                         <autoresizingMask key="autoresizingMask"/>
                                                                                                                                     </scroller>
@@ -5327,7 +5331,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                             <rect key="frame" x="212" y="3" width="516" height="16"/>
                                                             <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                                                             <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="center" title="標籤" id="6025">
-                                                                <font key="font" size="12" name="LucidaGrande"/>
+                                                                <font key="font" metaFont="cellTitle"/>
                                                                 <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                                                 <color key="backgroundColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                                             </textFieldCell>
@@ -5337,7 +5341,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                             <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
                                                             <popUpButtonCell key="cell" type="roundRect" title="100 %" bezelStyle="roundedRect" alignment="center" lineBreakMode="truncatingTail" state="on" borderStyle="border" tag="100" imageScaling="proportionallyDown" inset="2" selectedItem="10115" id="10112">
                                                                 <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
-                                                                <font key="font" size="12" name="LucidaGrande"/>
+                                                                <font key="font" metaFont="cellTitle"/>
                                                                 <menu key="menu" title="OtherViews" id="10113">
                                                                     <items>
                                                                         <menuItem title="25 %" tag="25" id="10114"/>
@@ -5369,7 +5373,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                                             <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
                                                             <buttonCell key="cell" type="roundRect" title="100 %" bezelStyle="roundedRect" alignment="center" state="on" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="10124">
                                                                 <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
-                                                                <font key="font" size="12" name="LucidaGrande"/>
+                                                                <font key="font" metaFont="cellTitle"/>
                                                             </buttonCell>
                                                         </button>
                                                     </subviews>
@@ -6455,14 +6459,14 @@ Gw
                     <popUpButton verticalHuggingPriority="750" id="9496" customClass="MNInspectorPopupButton">
                         <rect key="frame" x="17" y="110" width="223" height="19"/>
                         <autoresizingMask key="autoresizingMask"/>
-                        <popUpButtonCell key="cell" type="roundRect" title="Item1" bezelStyle="roundedRect" alignment="center" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" inset="2" arrowPosition="arrowAtCenter" preferredEdge="maxY" id="9539">
+                        <popUpButtonCell key="cell" type="roundRect" bezelStyle="roundedRect" alignment="center" lineBreakMode="truncatingTail" borderStyle="borderAndBezel" inset="2" arrowPosition="arrowAtCenter" preferredEdge="maxY" id="9539">
                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <menu key="menu" title="OtherViews" id="9540">
                                 <items>
-                                    <menuItem title="Item1" state="on" id="9542"/>
-                                    <menuItem title="Item2" id="9541"/>
-                                    <menuItem title="Item3" id="9543"/>
+                                    <menuItem title="項目 1" id="9542"/>
+                                    <menuItem title="項目 2" id="9541"/>
+                                    <menuItem title="項目 3" id="9543"/>
                                 </items>
                             </menu>
                         </popUpButtonCell>
@@ -6651,7 +6655,7 @@ Gw
                         <rect key="frame" x="20" y="241" width="108" height="18"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="再次輸入：" id="676">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -6708,7 +6712,7 @@ Gw
                         <rect key="frame" x="16" y="508" width="103" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="帳號名稱" id="641">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -6717,7 +6721,7 @@ Gw
                         <rect key="frame" x="16" y="478" width="103" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="起始結餘" id="644">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -6742,7 +6746,7 @@ Gw
                         <rect key="frame" x="16" y="446" width="103" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="信用額度" id="2130">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -6751,7 +6755,7 @@ Gw
                         <rect key="frame" x="325" y="539" width="34" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="使用者" id="6519">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -6760,7 +6764,7 @@ Gw
                         <rect key="frame" x="294" y="508" width="65" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="密碼" id="6524">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -6769,7 +6773,7 @@ Gw
                         <rect key="frame" x="106" y="22" width="232" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="正在下載帳號…" id="6590">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -6799,7 +6803,7 @@ Gw
                         <rect key="frame" x="20" y="330" width="108" height="18"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="密碼" id="667">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -6890,7 +6894,7 @@ Gw
                         <rect key="frame" x="16" y="541" width="103" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="帳號類型" id="6107">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -6998,17 +7002,17 @@ Gw
                         <rect key="frame" x="19" y="76" width="523" height="227"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <clipView key="contentView" id="9Qb-fC-rSn">
-                            <rect key="frame" x="1" y="1" width="521" height="225"/>
+                            <rect key="frame" x="1" y="1" width="505" height="225"/>
                             <autoresizingMask key="autoresizingMask"/>
                             <subviews>
                                 <tableView verticalHuggingPriority="750" allowsExpansionToolTips="YES" columnAutoresizingStyle="lastColumnOnly" columnSelection="YES" multipleSelection="NO" autosaveColumns="NO" id="7231">
-                                    <rect key="frame" x="0.0" y="0.0" width="521" height="225"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="505" height="225"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <size key="intercellSpacing" width="3" height="2"/>
                                     <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                     <color key="gridColor" name="gridColor" catalog="System" colorSpace="catalog"/>
                                     <tableColumns>
-                                        <tableColumn width="518" minWidth="40" maxWidth="1000" id="7234">
+                                        <tableColumn width="502" minWidth="40" maxWidth="1000" id="7234">
                                             <tableHeaderCell key="headerCell" lineBreakMode="truncatingTail" borderStyle="border" alignment="left" title="金融機構">
                                                 <font key="font" metaFont="smallSystem"/>
                                                 <color key="textColor" name="headerTextColor" catalog="System" colorSpace="catalog"/>
@@ -7048,7 +7052,7 @@ Gw
                                 <rect key="frame" x="2" y="99" width="103" height="17"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                                 <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="期限" id="7306">
-                                    <font key="font" size="12" name="LucidaGrande"/>
+                                    <font key="font" metaFont="cellTitle"/>
                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                 </textFieldCell>
@@ -7082,7 +7086,7 @@ Gw
                                 <rect key="frame" x="2" y="129" width="103" height="17"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                                 <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="年利率" id="7304">
-                                    <font key="font" size="12" name="LucidaGrande"/>
+                                    <font key="font" metaFont="cellTitle"/>
                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                 </textFieldCell>
@@ -7100,7 +7104,7 @@ Gw
                                 <rect key="frame" x="2" y="41" width="103" height="17"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                                 <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="開始日期" id="7310">
-                                    <font key="font" size="12" name="LucidaGrande"/>
+                                    <font key="font" metaFont="cellTitle"/>
                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                 </textFieldCell>
@@ -7121,7 +7125,7 @@ Gw
                                 <rect key="frame" x="2" y="71" width="103" height="17"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                                 <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="付款於每" id="7308">
-                                    <font key="font" size="12" name="LucidaGrande"/>
+                                    <font key="font" metaFont="cellTitle"/>
                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                 </textFieldCell>
@@ -7180,7 +7184,7 @@ Gw
                                 <rect key="frame" x="2" y="9" width="103" height="17"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                                 <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="使用帳號" id="7408">
-                                    <font key="font" size="12" name="LucidaGrande"/>
+                                    <font key="font" metaFont="cellTitle"/>
                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                 </textFieldCell>
@@ -7219,7 +7223,7 @@ Gw
                         <rect key="frame" x="289" y="479" width="69" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="開始日期" id="9617">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -7261,7 +7265,7 @@ Gw
                 </menuItem>
             </items>
         </menu>
-        <menu title="Menu" id="704" userLabel="LeftAction menu">
+        <menu title="選單" id="704" userLabel="LeftAction menu">
             <items>
                 <menuItem title="新增帳號…" tag="2001" id="712">
                     <connections>
@@ -7334,7 +7338,7 @@ Gw
                                                         <color key="backgroundColor" white="0.33333299" alpha="1" colorSpace="calibratedWhite"/>
                                                     </tableHeaderCell>
                                                     <textFieldCell key="dataCell" lineBreakMode="truncatingTail" selectable="YES" editable="YES" alignment="left" title="Text Cell" id="1620">
-                                                        <font key="font" size="12" name="LucidaGrande"/>
+                                                        <font key="font" metaFont="cellTitle"/>
                                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                         <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
                                                     </textFieldCell>
@@ -7349,7 +7353,7 @@ Gw
                                     <rect key="frame" x="-100" y="-100" width="206" height="15"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </scroller>
-                                <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" id="1613">
+                                <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" id="1613">
                                     <rect key="frame" x="-100" y="-100" width="15" height="102"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </scroller>
@@ -7393,7 +7397,7 @@ Gw
                                                         <color key="backgroundColor" white="0.33333299" alpha="1" colorSpace="calibratedWhite"/>
                                                     </tableHeaderCell>
                                                     <textFieldCell key="dataCell" lineBreakMode="truncatingTail" selectable="YES" editable="YES" alignment="left" title="Text Cell" id="1701" customClass="MNNoHighlightHUDTextFieldCell">
-                                                        <font key="font" size="12" name="LucidaGrande"/>
+                                                        <font key="font" metaFont="cellTitle"/>
                                                         <color key="textColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                                         <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
                                                     </textFieldCell>
@@ -7408,7 +7412,7 @@ Gw
                                     <rect key="frame" x="-100" y="-100" width="206" height="15"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </scroller>
-                                <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" id="1699">
+                                <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" id="1699">
                                     <rect key="frame" x="181" y="0.0" width="15" height="396"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </scroller>
@@ -7452,7 +7456,7 @@ Gw
                                                         <color key="backgroundColor" white="0.33333299" alpha="1" colorSpace="calibratedWhite"/>
                                                     </tableHeaderCell>
                                                     <textFieldCell key="dataCell" lineBreakMode="truncatingTail" selectable="YES" editable="YES" alignment="left" title="Text Cell" id="1805" customClass="MNNoHighlightHUDTextFieldCell">
-                                                        <font key="font" size="12" name="LucidaGrande"/>
+                                                        <font key="font" metaFont="cellTitle"/>
                                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                         <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
                                                     </textFieldCell>
@@ -7467,7 +7471,7 @@ Gw
                                     <rect key="frame" x="-100" y="-100" width="206" height="15"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </scroller>
-                                <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" id="1801">
+                                <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" id="1801">
                                     <rect key="frame" x="181" y="0.0" width="15" height="396"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </scroller>
@@ -8106,7 +8110,7 @@ Gw
                                                         <color key="backgroundColor" white="0.33333299" alpha="1" colorSpace="calibratedWhite"/>
                                                     </tableHeaderCell>
                                                     <textFieldCell key="dataCell" lineBreakMode="truncatingTail" selectable="YES" editable="YES" alignment="left" title="Text Cell" id="5752" customClass="MNNoHighlightHUDTextFieldCell">
-                                                        <font key="font" size="12" name="LucidaGrande"/>
+                                                        <font key="font" metaFont="cellTitle"/>
                                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                         <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
                                                     </textFieldCell>
@@ -8121,7 +8125,7 @@ Gw
                                     <rect key="frame" x="-100" y="-100" width="206" height="15"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </scroller>
-                                <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" id="5750">
+                                <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" id="5750">
                                     <rect key="frame" x="181" y="0.0" width="15" height="396"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </scroller>
@@ -8140,7 +8144,7 @@ Gw
                 <rect key="frame" x="0.0" y="0.0" width="205" height="418"/>
                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                 <subviews>
-                    <tabView autoresizesSubviews="NO" drawsBackground="NO" type="noTabsNoBorder" id="1842">
+                    <tabView drawsBackground="NO" type="noTabsNoBorder" id="1842">
                         <rect key="frame" x="0.0" y="0.0" width="205" height="418"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <contentFilters>
@@ -8163,7 +8167,7 @@ Gw
                                             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                             <clipView key="contentView" drawsBackground="NO" copiesOnScroll="NO" id="FaB-ao-mjj">
                                                 <rect key="frame" x="0.0" y="0.0" width="191" height="384"/>
-                                                <autoresizingMask key="autoresizingMask"/>
+                                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                                 <subviews>
                                                     <outlineView focusRingType="none" verticalHuggingPriority="750" allowsExpansionToolTips="YES" columnAutoresizingStyle="lastColumnOnly" columnReordering="NO" columnResizing="NO" multipleSelection="NO" autosaveColumns="NO" indentationPerLevel="16" autoresizesOutlineColumn="YES" outlineTableColumn="1711" id="1710" customClass="MNTagsChooserView">
                                                         <rect key="frame" x="0.0" y="0.0" width="191" height="384"/>
@@ -8206,7 +8210,7 @@ Gw
                                                 <rect key="frame" x="-100" y="-100" width="206" height="15"/>
                                                 <autoresizingMask key="autoresizingMask"/>
                                             </scroller>
-                                            <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" id="1708">
+                                            <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" id="1708">
                                                 <rect key="frame" x="163" y="0.0" width="15" height="375"/>
                                                 <autoresizingMask key="autoresizingMask"/>
                                             </scroller>
@@ -8356,7 +8360,7 @@ Gw
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                     <popUpButtonCell key="cell" type="push" title="QIF" bezelStyle="rounded" alignment="left" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" selectedItem="9348" id="9346">
                         <behavior key="behavior" lightByBackground="YES" lightByGray="YES"/>
-                        <font key="font" metaFont="system"/>
+                        <font key="font" metaFont="menu"/>
                         <menu key="menu" title="OtherViews" id="9347">
                             <items>
                                 <menuItem title="QIF" state="on" id="9348"/>
@@ -8403,7 +8407,7 @@ Gw
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                     <popUpButtonCell key="cell" type="push" title="PDF" bezelStyle="rounded" alignment="left" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" selectedItem="10742" id="10739">
                         <behavior key="behavior" lightByBackground="YES" lightByGray="YES"/>
-                        <font key="font" metaFont="system"/>
+                        <font key="font" metaFont="menu"/>
                         <menu key="menu" title="OtherViews" id="10740">
                             <items>
                                 <menuItem title="PDF" state="on" id="10742"/>
@@ -8426,26 +8430,26 @@ Gw
         <userDefaultsController representsSharedInstance="YES" id="1658"/>
         <menu id="1817" userLabel="accountsmenu">
             <items>
-                <menuItem title="Item 1" id="1818">
+                <menuItem title="項目 1" id="1818">
                     <modifierMask key="keyEquivalentModifierMask"/>
                 </menuItem>
-                <menuItem title="Item 2" id="1819">
+                <menuItem title="項目 2" id="1819">
                     <modifierMask key="keyEquivalentModifierMask"/>
                 </menuItem>
-                <menuItem title="Item 3" id="1820">
+                <menuItem title="項目 3" id="1820">
                     <modifierMask key="keyEquivalentModifierMask"/>
                 </menuItem>
             </items>
         </menu>
         <menu id="1821" userLabel="tansferaccountsmenu">
             <items>
-                <menuItem title="Item 1" id="1822">
+                <menuItem title="項目 1" id="1822">
                     <modifierMask key="keyEquivalentModifierMask"/>
                 </menuItem>
-                <menuItem title="Item 2" id="1823">
+                <menuItem title="項目 2" id="1823">
                     <modifierMask key="keyEquivalentModifierMask"/>
                 </menuItem>
-                <menuItem title="Item 3" id="1824">
+                <menuItem title="項目 3" id="1824">
                     <modifierMask key="keyEquivalentModifierMask"/>
                 </menuItem>
             </items>
@@ -8464,7 +8468,7 @@ Gw
                         <rect key="frame" x="22" y="162" width="130" height="16"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                         <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="right" title="智慧型帳號：" id="6074">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -9369,7 +9373,7 @@ Gw
                         <rect key="frame" x="24" y="456" width="79" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="名稱" id="2392">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -9378,7 +9382,7 @@ Gw
                         <rect key="frame" x="24" y="427" width="79" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="類型" id="2399">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -9387,7 +9391,7 @@ Gw
                         <rect key="frame" x="24" y="397" width="79" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="開始日期" id="2420">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -9396,7 +9400,7 @@ Gw
                         <rect key="frame" x="24" y="367" width="79" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="結束日期" id="2422">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -9437,7 +9441,7 @@ Gw
                             <calendarDate key="date" timeIntervalSinceReferenceDate="-595929600" calendarFormat="%Y-%m-%d %H:%M:%S %z">
                                 <!--1982-02-12 08:00:00 -0800-->
                                 <timeZone key="timeZone" name="US/Pacific">
-                                    <mutableData key="data">
+                                    <data key="data">
 VFppZgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAC5AAAABAAAABCepkign7sVkKCGKqChmveQ
 y4kaoNIj9HDSYSYQ1v50INiArZDa/tGg28CQENzes6DdqayQ3r6VoN+JjpDgnneg4WlwkOJ+WaDjSVKQ
 5F47oOUpNJDmR1gg5xJREOgnOiDo8jMQ6gccIOrSFRDr5v4g7LH3EO3G4CDukdkQ76/8oPBxuxDxj96g
@@ -9455,7 +9459,7 @@ f5gqkAABAAECAwEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
-</mutableData>
+</data>
                                 </timeZone>
                             </calendarDate>
                             <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
@@ -9470,7 +9474,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                             <calendarDate key="date" timeIntervalSinceReferenceDate="-595929600" calendarFormat="%Y-%m-%d %H:%M:%S %z">
                                 <!--1982-02-12 08:00:00 -0800-->
                                 <timeZone key="timeZone" name="US/Pacific">
-                                    <mutableData key="data">
+                                    <data key="data">
 VFppZgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAC5AAAABAAAABCepkign7sVkKCGKqChmveQ
 y4kaoNIj9HDSYSYQ1v50INiArZDa/tGg28CQENzes6DdqayQ3r6VoN+JjpDgnneg4WlwkOJ+WaDjSVKQ
 5F47oOUpNJDmR1gg5xJREOgnOiDo8jMQ6gccIOrSFRDr5v4g7LH3EO3G4CDukdkQ76/8oPBxuxDxj96g
@@ -9488,7 +9492,7 @@ f5gqkAABAAECAwEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
-</mutableData>
+</data>
                                 </timeZone>
                             </calendarDate>
                             <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
@@ -9699,7 +9703,7 @@ Gw
                         <rect key="frame" x="18" y="340" width="225" height="16"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="帳號" id="6092">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -9838,7 +9842,7 @@ Gw
                         <rect key="frame" x="68" y="368" width="55" height="16"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                         <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="right" title="金額" id="2887">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -9847,7 +9851,7 @@ Gw
                         <rect key="frame" x="68" y="338" width="55" height="16"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                         <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="right" title="日期" id="2891">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -10005,7 +10009,7 @@ Gw
                                                         <rect key="frame" x="-100" y="-100" width="210" height="15"/>
                                                         <autoresizingMask key="autoresizingMask"/>
                                                     </scroller>
-                                                    <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" id="8175">
+                                                    <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" id="8175">
                                                         <rect key="frame" x="-100" y="-100" width="15" height="102"/>
                                                         <autoresizingMask key="autoresizingMask"/>
                                                     </scroller>
@@ -10109,7 +10113,7 @@ Gw
                                                                 <rect key="frame" x="-100" y="-100" width="210" height="15"/>
                                                                 <autoresizingMask key="autoresizingMask"/>
                                                             </scroller>
-                                                            <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" id="8165">
+                                                            <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" id="8165">
                                                                 <rect key="frame" x="-100" y="-100" width="15" height="102"/>
                                                                 <autoresizingMask key="autoresizingMask"/>
                                                             </scroller>
@@ -10164,7 +10168,7 @@ Gw
                         <rect key="frame" x="58" y="131" width="54" height="16"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES"/>
                         <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="right" title="日期" id="9248">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -10342,7 +10346,7 @@ Gw
                                     <calendarDate key="date" timeIntervalSinceReferenceDate="-595929600" calendarFormat="%Y-%m-%d %H:%M:%S %z">
                                         <!--1982-02-12 08:00:00 -0800-->
                                         <timeZone key="timeZone" name="US/Pacific">
-                                            <mutableData key="data">
+                                            <data key="data">
 VFppZgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAC5AAAABAAAABCepkign7sVkKCGKqChmveQ
 y4kaoNIj9HDSYSYQ1v50INiArZDa/tGg28CQENzes6DdqayQ3r6VoN+JjpDgnneg4WlwkOJ+WaDjSVKQ
 5F47oOUpNJDmR1gg5xJREOgnOiDo8jMQ6gccIOrSFRDr5v4g7LH3EO3G4CDukdkQ76/8oPBxuxDxj96g
@@ -10360,7 +10364,7 @@ f5gqkAABAAECAwEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
-</mutableData>
+</data>
                                         </timeZone>
                                     </calendarDate>
                                     <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
@@ -10393,7 +10397,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                     <calendarDate key="date" timeIntervalSinceReferenceDate="-595929600" calendarFormat="%Y-%m-%d %H:%M:%S %z">
                                         <!--1982-02-12 08:00:00 -0800-->
                                         <timeZone key="timeZone" name="US/Pacific">
-                                            <mutableData key="data">
+                                            <data key="data">
 VFppZgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAC5AAAABAAAABCepkign7sVkKCGKqChmveQ
 y4kaoNIj9HDSYSYQ1v50INiArZDa/tGg28CQENzes6DdqayQ3r6VoN+JjpDgnneg4WlwkOJ+WaDjSVKQ
 5F47oOUpNJDmR1gg5xJREOgnOiDo8jMQ6gccIOrSFRDr5v4g7LH3EO3G4CDukdkQ76/8oPBxuxDxj96g
@@ -10411,7 +10415,7 @@ f5gqkAABAAECAwEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
-</mutableData>
+</data>
                                         </timeZone>
                                     </calendarDate>
                                     <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
@@ -10426,7 +10430,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                                     <calendarDate key="date" timeIntervalSinceReferenceDate="-595929600" calendarFormat="%Y-%m-%d %H:%M:%S %z">
                                         <!--1982-02-12 08:00:00 -0800-->
                                         <timeZone key="timeZone" name="US/Pacific">
-                                            <mutableData key="data">
+                                            <data key="data">
 VFppZgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAC5AAAABAAAABCepkign7sVkKCGKqChmveQ
 y4kaoNIj9HDSYSYQ1v50INiArZDa/tGg28CQENzes6DdqayQ3r6VoN+JjpDgnneg4WlwkOJ+WaDjSVKQ
 5F47oOUpNJDmR1gg5xJREOgnOiDo8jMQ6gccIOrSFRDr5v4g7LH3EO3G4CDukdkQ76/8oPBxuxDxj96g
@@ -10444,7 +10448,7 @@ f5gqkAABAAECAwEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
-</mutableData>
+</data>
                                         </timeZone>
                                     </calendarDate>
                                     <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
@@ -10491,7 +10495,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                         <rect key="frame" x="17" y="407" width="109" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="名稱" id="3271">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -10567,14 +10571,14 @@ Gw
                     <popUpButton hidden="YES" verticalHuggingPriority="750" id="7484" customClass="MNInspectorPopupButton">
                         <rect key="frame" x="128" y="378" width="137" height="22"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <popUpButtonCell key="cell" type="push" title="Item 1" bezelStyle="rounded" alignment="left" controlSize="small" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" selectedItem="7487" id="7485">
+                        <popUpButtonCell key="cell" type="push" title="項目 1" bezelStyle="rounded" alignment="left" controlSize="small" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" selectedItem="7487" id="7485">
                             <behavior key="behavior" lightByBackground="YES" lightByGray="YES"/>
                             <font key="font" metaFont="smallSystem"/>
                             <menu key="menu" title="OtherViews" id="7486">
                                 <items>
-                                    <menuItem title="Item 1" state="on" id="7487"/>
-                                    <menuItem title="Item 2" id="7488"/>
-                                    <menuItem title="Item 3" id="7489"/>
+                                    <menuItem title="項目 1" state="on" id="7487"/>
+                                    <menuItem title="項目 2" id="7488"/>
+                                    <menuItem title="項目 3" id="7489"/>
                                 </items>
                             </menu>
                         </popUpButtonCell>
@@ -10626,7 +10630,7 @@ Gw
                             <calendarDate key="date" timeIntervalSinceReferenceDate="-595929600" calendarFormat="%Y-%m-%d %H:%M:%S %z">
                                 <!--1982-02-12 08:00:00 -0800-->
                                 <timeZone key="timeZone" name="US/Pacific">
-                                    <mutableData key="data">
+                                    <data key="data">
 VFppZgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAC5AAAABAAAABCepkign7sVkKCGKqChmveQ
 y4kaoNIj9HDSYSYQ1v50INiArZDa/tGg28CQENzes6DdqayQ3r6VoN+JjpDgnneg4WlwkOJ+WaDjSVKQ
 5F47oOUpNJDmR1gg5xJREOgnOiDo8jMQ6gccIOrSFRDr5v4g7LH3EO3G4CDukdkQ76/8oPBxuxDxj96g
@@ -10644,7 +10648,7 @@ f5gqkAABAAECAwEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
-</mutableData>
+</data>
                                 </timeZone>
                             </calendarDate>
                             <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
@@ -10662,7 +10666,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                             <calendarDate key="date" timeIntervalSinceReferenceDate="-595929600" calendarFormat="%Y-%m-%d %H:%M:%S %z">
                                 <!--1982-02-12 08:00:00 -0800-->
                                 <timeZone key="timeZone" name="US/Pacific">
-                                    <mutableData key="data">
+                                    <data key="data">
 VFppZgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAC5AAAABAAAABCepkign7sVkKCGKqChmveQ
 y4kaoNIj9HDSYSYQ1v50INiArZDa/tGg28CQENzes6DdqayQ3r6VoN+JjpDgnneg4WlwkOJ+WaDjSVKQ
 5F47oOUpNJDmR1gg5xJREOgnOiDo8jMQ6gccIOrSFRDr5v4g7LH3EO3G4CDukdkQ76/8oPBxuxDxj96g
@@ -10680,7 +10684,7 @@ f5gqkAABAAECAwEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
-</mutableData>
+</data>
                                 </timeZone>
                             </calendarDate>
                             <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
@@ -10698,7 +10702,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                             <font key="font" metaFont="smallSystem"/>
                             <menu key="menu" title="OtherViews" id="7513">
                                 <items>
-                                    <menuItem title="自訂日期" id="7516"/>
+                                    <menuItem title="其他" id="7516"/>
                                     <menuItem title="前年" id="7515"/>
                                     <menuItem title="上個月" id="7514"/>
                                     <menuItem title="上週" id="7517"/>
@@ -11009,12 +11013,12 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                             <popUpButton hidden="YES" verticalHuggingPriority="750" id="10091" customClass="MNInspectorPopupButton">
                                 <rect key="frame" x="128" y="128" width="137" height="22"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                                <popUpButtonCell key="cell" type="push" title="自訂日期" bezelStyle="rounded" alignment="left" controlSize="small" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" id="10092">
+                                <popUpButtonCell key="cell" type="push" bezelStyle="rounded" alignment="left" controlSize="small" lineBreakMode="truncatingTail" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" id="10092">
                                     <behavior key="behavior" lightByBackground="YES" lightByGray="YES"/>
                                     <font key="font" metaFont="smallSystem"/>
                                     <menu key="menu" title="OtherViews" id="10093">
                                         <items>
-                                            <menuItem title="自訂日期" state="on" id="10100"/>
+                                            <menuItem title="自訂日期" id="10100"/>
                                             <menuItem title="前年" id="10101"/>
                                             <menuItem title="上個月" id="10102"/>
                                             <menuItem title="上週" id="10099"/>
@@ -12082,13 +12086,13 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
         </menu>
         <menu id="4125" userLabel="Invoice Styles Menu">
             <items>
-                <menuItem title="Item 1" id="4126">
+                <menuItem title="項目 1" id="4126">
                     <modifierMask key="keyEquivalentModifierMask"/>
                 </menuItem>
-                <menuItem title="Item 2" id="4127">
+                <menuItem title="項目 2" id="4127">
                     <modifierMask key="keyEquivalentModifierMask"/>
                 </menuItem>
-                <menuItem title="Item 3" id="4128">
+                <menuItem title="項目 3" id="4128">
                     <modifierMask key="keyEquivalentModifierMask"/>
                 </menuItem>
             </items>
@@ -12116,7 +12120,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                         <rect key="frame" x="17" y="131" width="54" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="名稱" id="5692">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -12134,7 +12138,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                         <rect key="frame" x="17" y="102" width="54" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="代碼" id="5694">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -12152,7 +12156,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                         <rect key="frame" x="17" y="73" width="54" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="報價" id="5706">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -12231,7 +12235,7 @@ Gw
                         <rect key="frame" x="17" y="77" width="54" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="比例" id="9396">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -12240,7 +12244,7 @@ Gw
                         <rect key="frame" x="17" y="107" width="54" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="代碼" id="9410">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -12258,7 +12262,7 @@ Gw
                         <rect key="frame" x="131" y="77" width="27" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="center" title=" / " id="9395">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -12337,7 +12341,7 @@ Gw
                         <rect key="frame" x="17" y="190" width="81" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="股份：" id="9429">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -12355,7 +12359,7 @@ Gw
                         <rect key="frame" x="17" y="161" width="81" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="價格：" id="9438">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -12373,7 +12377,7 @@ Gw
                         <rect key="frame" x="17" y="133" width="81" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="佣金：" id="9442">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -12382,7 +12386,7 @@ Gw
                         <rect key="frame" x="17" y="248" width="81" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="代碼：" id="9432">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -12487,7 +12491,7 @@ Gw
                         <rect key="frame" x="17" y="219" width="81" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="帳號：" id="9484">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -12496,7 +12500,7 @@ Gw
                         <rect key="frame" x="17" y="104" width="81" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="日期：" id="9486">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -12505,7 +12509,7 @@ Gw
                         <rect key="frame" x="17" y="73" width="81" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="收款人：" id="9488">
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -12581,7 +12585,7 @@ Gw
                             <rect key="frame" x="-100" y="-100" width="423" height="15"/>
                             <autoresizingMask key="autoresizingMask"/>
                         </scroller>
-                        <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" id="6560">
+                        <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" id="6560">
                             <rect key="frame" x="424" y="17" width="15" height="236"/>
                             <autoresizingMask key="autoresizingMask"/>
                         </scroller>
@@ -13075,7 +13079,7 @@ Gw
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <customView id="7977" customClass="MNInspectorResizableView">
-                                            <rect key="frame" x="0.0" y="-243" width="259" height="700"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="259" height="700"/>
                                             <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
                                             <subviews>
                                                 <customView id="7907" customClass="MNSegmentedLabelsChooserView">
@@ -13209,7 +13213,7 @@ Gw
                                                                 <rect key="frame" x="-100" y="-100" width="210" height="15"/>
                                                                 <autoresizingMask key="autoresizingMask"/>
                                                             </scroller>
-                                                            <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" id="7992">
+                                                            <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" id="7992">
                                                                 <rect key="frame" x="-100" y="-100" width="15" height="102"/>
                                                                 <autoresizingMask key="autoresizingMask"/>
                                                             </scroller>
@@ -13318,7 +13322,7 @@ Gw
                                                                         <rect key="frame" x="-100" y="-100" width="210" height="15"/>
                                                                         <autoresizingMask key="autoresizingMask"/>
                                                                     </scroller>
-                                                                    <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" id="8008">
+                                                                    <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" id="8008">
                                                                         <rect key="frame" x="-100" y="-100" width="15" height="102"/>
                                                                         <autoresizingMask key="autoresizingMask"/>
                                                                     </scroller>
@@ -13370,7 +13374,7 @@ Gw
                                     <rect key="frame" x="-100" y="-100" width="247" height="15"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </scroller>
-                                <scroller key="verticalScroller" verticalHuggingPriority="750" id="7979">
+                                <scroller key="verticalScroller" verticalHuggingPriority="750" doubleValue="1" id="7979">
                                     <rect key="frame" x="243" y="0.0" width="16" height="206"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </scroller>
@@ -13477,7 +13481,7 @@ Gw
                             <rect key="frame" x="-100" y="-100" width="423" height="15"/>
                             <autoresizingMask key="autoresizingMask"/>
                         </scroller>
-                        <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" id="9602">
+                        <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" id="9602">
                             <rect key="frame" x="424" y="17" width="15" height="236"/>
                             <autoresizingMask key="autoresizingMask"/>
                         </scroller>
@@ -13507,14 +13511,14 @@ Gw
                     <popUpButton hidden="YES" verticalHuggingPriority="750" id="7082">
                         <rect key="frame" x="527" y="456" width="227" height="19"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
-                        <popUpButtonCell key="cell" type="roundRect" title="Item1" bezelStyle="roundedRect" alignment="left" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" inset="2" arrowPosition="arrowAtCenter" preferredEdge="maxY" selectedItem="7089" id="7087">
+                        <popUpButtonCell key="cell" type="roundRect" title="項目 1" bezelStyle="roundedRect" alignment="left" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" inset="2" arrowPosition="arrowAtCenter" preferredEdge="maxY" selectedItem="7089" id="7087">
                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <menu key="menu" title="OtherViews" id="7088">
                                 <items>
-                                    <menuItem title="Item1" state="on" id="7089"/>
-                                    <menuItem title="Item2" id="7090"/>
-                                    <menuItem title="Item3" id="7091"/>
+                                    <menuItem title="項目 1" state="on" id="7089"/>
+                                    <menuItem title="項目 2" id="7090"/>
+                                    <menuItem title="項目 3" id="7091"/>
                                 </items>
                             </menu>
                         </popUpButtonCell>
@@ -13531,14 +13535,14 @@ Gw
                     <popUpButton verticalHuggingPriority="750" id="7079" customClass="MNInspectorPopupButton">
                         <rect key="frame" x="108" y="421" width="123" height="19"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
-                        <popUpButtonCell key="cell" type="roundRect" title="Item1" bezelStyle="roundedRect" alignment="left" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" inset="2" arrowPosition="arrowAtCenter" preferredEdge="maxY" selectedItem="7100" id="7096">
+                        <popUpButtonCell key="cell" type="roundRect" title="項目 1" bezelStyle="roundedRect" alignment="left" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" inset="2" arrowPosition="arrowAtCenter" preferredEdge="maxY" selectedItem="7100" id="7096">
                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
-                            <font key="font" size="12" name="LucidaGrande"/>
+                            <font key="font" metaFont="cellTitle"/>
                             <menu key="menu" title="OtherViews" id="7097">
                                 <items>
-                                    <menuItem title="Item1" state="on" id="7100"/>
-                                    <menuItem title="Item2" id="7099"/>
-                                    <menuItem title="Item3" id="7098"/>
+                                    <menuItem title="項目 1" state="on" id="7100"/>
+                                    <menuItem title="項目 2" id="7099"/>
+                                    <menuItem title="項目 3" id="7098"/>
                                 </items>
                             </menu>
                         </popUpButtonCell>
@@ -13805,11 +13809,11 @@ DQ
                         <rect key="frame" x="20" y="60" width="727" height="388"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                         <clipView key="contentView" id="Cbt-RZ-HIo">
-                            <rect key="frame" x="1" y="17" width="725" height="370"/>
+                            <rect key="frame" x="1" y="17" width="710" height="354"/>
                             <autoresizingMask key="autoresizingMask"/>
                             <subviews>
                                 <tableView focusRingType="none" verticalHuggingPriority="750" allowsExpansionToolTips="YES" columnAutoresizingStyle="lastColumnOnly" alternatingRowBackgroundColors="YES" multipleSelection="NO" autosaveColumns="NO" headerView="7168" id="7171" customClass="MNPopupTableView">
-                                    <rect key="frame" x="0.0" y="0.0" width="725" height="370"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="710" height="354"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <size key="intercellSpacing" width="3" height="2"/>
                                     <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
@@ -13833,15 +13837,15 @@ DQ
                             <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
                         </clipView>
                         <scroller key="horizontalScroller" verticalHuggingPriority="750" id="7169">
-                            <rect key="frame" x="1" y="371" width="725" height="16"/>
+                            <rect key="frame" x="1" y="371" width="710" height="16"/>
                             <autoresizingMask key="autoresizingMask"/>
                         </scroller>
-                        <scroller key="verticalScroller" verticalHuggingPriority="750" doubleValue="37" id="7170">
-                            <rect key="frame" x="710" y="17" width="16" height="370"/>
+                        <scroller key="verticalScroller" verticalHuggingPriority="750" doubleValue="1" id="7170">
+                            <rect key="frame" x="711" y="17" width="15" height="354"/>
                             <autoresizingMask key="autoresizingMask"/>
                         </scroller>
                         <tableHeaderView key="headerView" id="7168">
-                            <rect key="frame" x="0.0" y="0.0" width="725" height="17"/>
+                            <rect key="frame" x="0.0" y="0.0" width="710" height="17"/>
                             <autoresizingMask key="autoresizingMask"/>
                         </tableHeaderView>
                     </scrollView>
@@ -14091,7 +14095,7 @@ Gw
                             <calendarDate key="date" timeIntervalSinceReferenceDate="-595929600" calendarFormat="%Y-%m-%d %H:%M:%S %z">
                                 <!--1982-02-12 08:00:00 -0800-->
                                 <timeZone key="timeZone" name="US/Pacific">
-                                    <mutableData key="data">
+                                    <data key="data">
 VFppZgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAC5AAAABAAAABCepkign7sVkKCGKqChmveQ
 y4kaoNIj9HDSYSYQ1v50INiArZDa/tGg28CQENzes6DdqayQ3r6VoN+JjpDgnneg4WlwkOJ+WaDjSVKQ
 5F47oOUpNJDmR1gg5xJREOgnOiDo8jMQ6gccIOrSFRDr5v4g7LH3EO3G4CDukdkQ76/8oPBxuxDxj96g
@@ -14109,7 +14113,7 @@ f5gqkAABAAECAwEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
-</mutableData>
+</data>
                                 </timeZone>
                             </calendarDate>
                             <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
@@ -14127,7 +14131,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                             <calendarDate key="date" timeIntervalSinceReferenceDate="-595929600" calendarFormat="%Y-%m-%d %H:%M:%S %z">
                                 <!--1982-02-12 08:00:00 -0800-->
                                 <timeZone key="timeZone" name="US/Pacific">
-                                    <mutableData key="data">
+                                    <data key="data">
 VFppZgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAC5AAAABAAAABCepkign7sVkKCGKqChmveQ
 y4kaoNIj9HDSYSYQ1v50INiArZDa/tGg28CQENzes6DdqayQ3r6VoN+JjpDgnneg4WlwkOJ+WaDjSVKQ
 5F47oOUpNJDmR1gg5xJREOgnOiDo8jMQ6gccIOrSFRDr5v4g7LH3EO3G4CDukdkQ76/8oPBxuxDxj96g
@@ -14145,7 +14149,7 @@ f5gqkAABAAECAwEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
 AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
-</mutableData>
+</data>
                                 </timeZone>
                             </calendarDate>
                             <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
@@ -14691,14 +14695,14 @@ DQ
                     <popUpButton verticalHuggingPriority="750" id="9877">
                         <rect key="frame" x="163" y="102" width="297" height="25"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <popUpButtonCell key="cell" type="roundTextured" title="Item 1" bezelStyle="texturedRounded" alignment="center" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" selectedItem="9886" id="9884">
+                        <popUpButtonCell key="cell" type="roundTextured" title="項目 1" bezelStyle="texturedRounded" alignment="center" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" selectedItem="9886" id="9884">
                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
-                            <font key="font" metaFont="system"/>
+                            <font key="font" metaFont="menu"/>
                             <menu key="menu" title="OtherViews" id="9885">
                                 <items>
-                                    <menuItem title="Item 1" state="on" id="9886"/>
-                                    <menuItem title="Item 2" id="9887"/>
-                                    <menuItem title="Item 3" id="9888"/>
+                                    <menuItem title="項目 1" state="on" id="9886"/>
+                                    <menuItem title="項目 2" id="9887"/>
+                                    <menuItem title="項目 3" id="9888"/>
                                 </items>
                             </menu>
                         </popUpButtonCell>
@@ -14917,7 +14921,7 @@ Gw
                                 <rect key="frame" x="13" y="204" width="79" height="17"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="right" title="頻率" id="10047">
-                                    <font key="font" size="12" name="LucidaGrande"/>
+                                    <font key="font" metaFont="cellTitle"/>
                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                 </textFieldCell>
@@ -14925,12 +14929,12 @@ Gw
                             <popUpButton verticalHuggingPriority="750" id="10039" customClass="MNInspectorPopupButton">
                                 <rect key="frame" x="99" y="203" width="194" height="22"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <popUpButtonCell key="cell" type="push" title="每月" bezelStyle="rounded" alignment="left" controlSize="small" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" id="10042">
+                                <popUpButtonCell key="cell" type="push" bezelStyle="rounded" alignment="left" controlSize="small" lineBreakMode="truncatingTail" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" id="10042">
                                     <behavior key="behavior" lightByBackground="YES" lightByGray="YES"/>
                                     <font key="font" metaFont="smallSystem"/>
                                     <menu key="menu" title="OtherViews" id="10043">
                                         <items>
-                                            <menuItem title="每月" state="on" id="10046"/>
+                                            <menuItem title="每月" id="10046"/>
                                             <menuItem title="每年" tag="1" id="10045"/>
                                             <menuItem title="單次" tag="2" id="10044"/>
                                         </items>
