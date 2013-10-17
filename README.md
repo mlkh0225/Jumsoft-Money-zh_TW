@@ -3,7 +3,7 @@ Jumsoft Money 正體中文（台灣）語系
 
 提醒：安裝前請先確定 Money 版本，版本不同 Layout 可能也不相同，強制安裝可能會導致選單消失。
 
-1 手動安裝方式：
+1、手動安裝方式：
 
     確定已安裝 Money 對應版本，在「應用程式」裡右鍵點選 Money 並選擇「顯示套件內容」，開啟「Contents」＞「Resources」
     
@@ -14,7 +14,7 @@ Jumsoft Money 正體中文（台灣）語系
     將此專案的所有檔案放到「zh_TW.lproj」中
 
 
-2 自動安裝套件：
+2、自動安裝套件：
 
     Money 4.3.1 正體中文語系：http://goo.gl/LvrUzQ
     
