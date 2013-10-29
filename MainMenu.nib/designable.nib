@@ -2,10 +2,10 @@
 <archive type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="8.00">
 	<data>
 		<int key="IBDocument.SystemTarget">1040</int>
-		<string key="IBDocument.SystemVersion">12F45</string>
+		<string key="IBDocument.SystemVersion">13A603</string>
 		<string key="IBDocument.InterfaceBuilderVersion">4510</string>
-		<string key="IBDocument.AppKitVersion">1187.40</string>
-		<string key="IBDocument.HIToolboxVersion">626.00</string>
+		<string key="IBDocument.AppKitVersion">1265</string>
+		<string key="IBDocument.HIToolboxVersion">695.00</string>
 		<object class="NSMutableDictionary" key="IBDocument.PluginVersions">
 			<string key="NS.key.0">com.apple.InterfaceBuilder.CocoaPlugin</string>
 			<string key="NS.object.0">4510</string>
@@ -64,6 +64,7 @@
 							<string key="NSResourceName">NSMenuMixedState</string>
 						</object>
 						<string key="NSAction">submenuAction:</string>
+						<reference key="NSTarget" ref="272824431"/>
 						<object class="NSMenu" key="NSSubmenu" id="272824431">
 							<string key="NSTitle">Money4</string>
 							<array class="NSMutableArray" key="NSMenuItems">
@@ -184,6 +185,7 @@
 						<reference key="NSOnImage" ref="385016679"/>
 						<reference key="NSMixedImage" ref="150129030"/>
 						<string key="NSAction">submenuAction:</string>
+						<reference key="NSTarget" ref="287065493"/>
 						<object class="NSMenu" key="NSSubmenu" id="287065493">
 							<string key="NSTitle">檔案</string>
 							<array class="NSMutableArray" key="NSMenuItems">
@@ -214,6 +216,7 @@
 									<reference key="NSOnImage" ref="385016679"/>
 									<reference key="NSMixedImage" ref="150129030"/>
 									<string key="NSAction">submenuAction:</string>
+									<reference key="NSTarget" ref="337602850"/>
 									<object class="NSMenu" key="NSSubmenu" id="337602850">
 										<string key="NSTitle">打開最近使用過的檔案</string>
 										<array class="NSMutableArray" key="NSMenuItems">
@@ -257,6 +260,7 @@
 									<reference key="NSMixedImage" ref="150129030"/>
 									<string key="NSAction">submenuAction:</string>
 									<int key="NSTag">2098</int>
+									<reference key="NSTarget" ref="408036810"/>
 									<object class="NSMenu" key="NSSubmenu" id="408036810">
 										<string key="NSTitle">Open from Dropbox</string>
 										<array class="NSMutableArray" key="NSMenuItems">
@@ -418,6 +422,7 @@
 						<reference key="NSOnImage" ref="385016679"/>
 						<reference key="NSMixedImage" ref="150129030"/>
 						<string key="NSAction">submenuAction:</string>
+						<reference key="NSTarget" ref="395402486"/>
 						<object class="NSMenu" key="NSSubmenu" id="395402486">
 							<string key="NSTitle">編輯</string>
 							<array class="NSMutableArray" key="NSMenuItems">
@@ -526,6 +531,7 @@
 						<reference key="NSOnImage" ref="385016679"/>
 						<reference key="NSMixedImage" ref="150129030"/>
 						<string key="NSAction">submenuAction:</string>
+						<reference key="NSTarget" ref="409736166"/>
 						<object class="NSMenu" key="NSSubmenu" id="409736166">
 							<string key="NSTitle">帳號</string>
 							<array class="NSMutableArray" key="NSMenuItems">
@@ -620,6 +626,7 @@
 						<reference key="NSMixedImage" ref="150129030"/>
 						<string key="NSAction">submenuAction:</string>
 						<int key="NSTag">4000</int>
+						<reference key="NSTarget" ref="532836331"/>
 						<object class="NSMenu" key="NSSubmenu" id="532836331">
 							<string key="NSTitle">動作</string>
 							<array class="NSMutableArray" key="NSMenuItems">
@@ -715,6 +722,7 @@
 						<reference key="NSOnImage" ref="385016679"/>
 						<reference key="NSMixedImage" ref="150129030"/>
 						<string key="NSAction">submenuAction:</string>
+						<reference key="NSTarget" ref="290670789"/>
 						<object class="NSMenu" key="NSSubmenu" id="290670789">
 							<string key="NSTitle">視窗</string>
 							<array class="NSMutableArray" key="NSMenuItems">
@@ -769,6 +777,7 @@
 						<reference key="NSOnImage" ref="385016679"/>
 						<reference key="NSMixedImage" ref="150129030"/>
 						<string key="NSAction">submenuAction:</string>
+						<reference key="NSTarget" ref="555861590"/>
 						<object class="NSMenu" key="NSSubmenu" id="555861590">
 							<string key="NSTitle">輔助說明</string>
 							<array class="NSMutableArray" key="NSMenuItems">
@@ -833,6 +842,7 @@
 									<reference key="NSOnImage" ref="385016679"/>
 									<reference key="NSMixedImage" ref="150129030"/>
 									<string key="NSAction">submenuAction:</string>
+									<reference key="NSTarget" ref="919747980"/>
 									<object class="NSMenu" key="NSSubmenu" id="919747980">
 										<string key="NSTitle">意見反映</string>
 										<array class="NSMutableArray" key="NSMenuItems">
@@ -892,9 +902,9 @@
 								<int key="NSCellFlags2">138412032</int>
 								<string key="NSContents">Money</string>
 								<object class="NSFont" key="NSSupport">
-									<string key="NSName">LucidaGrande-Bold</string>
+									<string key="NSName">.LucidaGrandeUI-Bold</string>
 									<double key="NSSize">14</double>
-									<int key="NSfFlags">16</int>
+									<int key="NSfFlags">2072</int>
 								</object>
 								<reference key="NSControlView" ref="753230824"/>
 								<object class="NSColor" key="NSBackgroundColor" id="489692605">
@@ -917,6 +927,7 @@
 								</object>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSImageView" id="497525978">
 							<reference key="NSNextResponder" ref="359094866"/>
@@ -960,7 +971,7 @@
 								<int key="NSCellFlags2">138412032</int>
 								<string key="NSContents">版本 2.0 (vXXX)</string>
 								<object class="NSFont" key="NSSupport" id="26">
-									<string key="NSName">LucidaGrande</string>
+									<string key="NSName">.LucidaGrandeUI</string>
 									<double key="NSSize">11</double>
 									<int key="NSfFlags">3100</int>
 								</object>
@@ -977,6 +988,7 @@
 								</object>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSTextField" id="284771476">
 							<reference key="NSNextResponder" ref="359094866"/>
@@ -995,6 +1007,7 @@
 								<reference key="NSTextColor" ref="77162200"/>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSTextField" id="139407251">
 							<reference key="NSNextResponder" ref="359094866"/>
@@ -1015,6 +1028,7 @@
 								</object>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSTextField" id="636979846">
 							<reference key="NSNextResponder" ref="359094866"/>
@@ -1036,6 +1050,7 @@
 								</object>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 					</array>
 					<string key="NSFrameSize">{284, 235}</string>
@@ -1070,10 +1085,10 @@
 								<int key="NSCellFlags">68157504</int>
 								<int key="NSCellFlags2">272630784</int>
 								<string key="NSContents">Money</string>
-								<object class="NSFont" key="NSSupport" id="122731547">
-									<string key="NSName">LucidaGrande</string>
+								<object class="NSFont" key="NSSupport">
+									<string key="NSName">.LucidaGrandeUI</string>
 									<double key="NSSize">48</double>
-									<int key="NSfFlags">16</int>
+									<int key="NSfFlags">1044</int>
 								</object>
 								<reference key="NSControlView" ref="448575253"/>
 								<reference key="NSBackgroundColor" ref="489692605"/>
@@ -1083,6 +1098,7 @@
 								</object>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSTextField" id="775060010">
 							<reference key="NSNextResponder" ref="338667583"/>
@@ -1095,7 +1111,11 @@
 								<int key="NSCellFlags">68157504</int>
 								<int key="NSCellFlags2">272630784</int>
 								<string key="NSContents"/>
-								<reference key="NSSupport" ref="122731547"/>
+								<object class="NSFont" key="NSSupport">
+									<string key="NSName">.LucidaGrandeUI</string>
+									<double key="NSSize">48</double>
+									<int key="NSfFlags">1044</int>
+								</object>
 								<reference key="NSControlView" ref="775060010"/>
 								<reference key="NSBackgroundColor" ref="489692605"/>
 								<object class="NSColor" key="NSTextColor">
@@ -1104,6 +1124,7 @@
 								</object>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSImageView" id="969811243">
 							<reference key="NSNextResponder" ref="338667583"/>
@@ -1144,7 +1165,7 @@
 								<int key="NSCellFlags2">134217728</int>
 								<string key="NSContents"/>
 								<object class="NSFont" key="NSSupport" id="294972669">
-									<string key="NSName">LucidaGrande</string>
+									<string key="NSName">.LucidaGrandeUI</string>
 									<double key="NSSize">13</double>
 									<int key="NSfFlags">1044</int>
 								</object>
@@ -1251,10 +1272,10 @@
 								<int key="NSCellFlags">68157504</int>
 								<int key="NSCellFlags2">272630784</int>
 								<string key="NSContents">新增檔案</string>
-								<object class="NSFont" key="NSSupport" id="809010859">
-									<string key="NSName">LucidaGrande</string>
+								<object class="NSFont" key="NSSupport">
+									<string key="NSName">.LucidaGrandeUI</string>
 									<double key="NSSize">14</double>
-									<int key="NSfFlags">16</int>
+									<int key="NSfFlags">1044</int>
 								</object>
 								<reference key="NSControlView" ref="943558029"/>
 								<reference key="NSBackgroundColor" ref="489692605"/>
@@ -1264,6 +1285,7 @@
 								</object>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSTextField" id="448490194">
 							<reference key="NSNextResponder" ref="338667583"/>
@@ -1276,7 +1298,11 @@
 								<int key="NSCellFlags">68157504</int>
 								<int key="NSCellFlags2">272630784</int>
 								<string key="NSContents">打開現有檔案</string>
-								<reference key="NSSupport" ref="809010859"/>
+								<object class="NSFont" key="NSSupport">
+									<string key="NSName">.LucidaGrandeUI</string>
+									<double key="NSSize">14</double>
+									<int key="NSfFlags">1044</int>
+								</object>
 								<reference key="NSControlView" ref="448490194"/>
 								<reference key="NSBackgroundColor" ref="489692605"/>
 								<object class="NSColor" key="NSTextColor">
@@ -1285,6 +1311,7 @@
 								</object>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSTextField" id="805513369">
 							<reference key="NSNextResponder" ref="338667583"/>
@@ -1297,7 +1324,11 @@
 								<int key="NSCellFlags">68157504</int>
 								<int key="NSCellFlags2">272630784</int>
 								<string key="NSContents">打開範例檔案</string>
-								<reference key="NSSupport" ref="809010859"/>
+								<object class="NSFont" key="NSSupport">
+									<string key="NSName">.LucidaGrandeUI</string>
+									<double key="NSSize">14</double>
+									<int key="NSfFlags">1044</int>
+								</object>
 								<reference key="NSControlView" ref="805513369"/>
 								<reference key="NSBackgroundColor" ref="489692605"/>
 								<object class="NSColor" key="NSTextColor">
@@ -1306,6 +1337,7 @@
 								</object>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSTextField" id="806036611">
 							<reference key="NSNextResponder" ref="338667583"/>
@@ -1318,7 +1350,11 @@
 								<int key="NSCellFlags">68157504</int>
 								<int key="NSCellFlags2">272630784</int>
 								<string key="NSContents">升級 Money 3 資料檔案</string>
-								<reference key="NSSupport" ref="809010859"/>
+								<object class="NSFont" key="NSSupport">
+									<string key="NSName">.LucidaGrandeUI</string>
+									<double key="NSSize">14</double>
+									<int key="NSfFlags">1044</int>
+								</object>
 								<reference key="NSControlView" ref="806036611"/>
 								<reference key="NSBackgroundColor" ref="489692605"/>
 								<object class="NSColor" key="NSTextColor">
@@ -1327,6 +1363,7 @@
 								</object>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSButton" id="414864656">
 							<reference key="NSNextResponder" ref="338667583"/>
@@ -1339,7 +1376,7 @@
 								<int key="NSCellFlags2">134217728</int>
 								<string key="NSContents">關閉</string>
 								<object class="NSFont" key="NSSupport" id="28">
-									<string key="NSName">LucidaGrande</string>
+									<string key="NSName">.LucidaGrandeUI</string>
 									<double key="NSSize">12</double>
 									<int key="NSfFlags">4883</int>
 								</object>
@@ -1369,9 +1406,9 @@
 								<int key="NSCellFlags2">272630784</int>
 								<string key="NSContents">4</string>
 								<object class="NSFont" key="NSSupport">
-									<string key="NSName">LucidaGrande</string>
+									<string key="NSName">.LucidaGrandeUI</string>
 									<double key="NSSize">36</double>
-									<int key="NSfFlags">16</int>
+									<int key="NSfFlags">1044</int>
 								</object>
 								<reference key="NSControlView" ref="46548897"/>
 								<reference key="NSBackgroundColor" ref="489692605"/>
@@ -1381,6 +1418,7 @@
 								</object>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSTextField" id="727961540">
 							<reference key="NSNextResponder" ref="338667583"/>
@@ -1402,6 +1440,7 @@
 								</object>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSButton" id="921398306">
 							<reference key="NSNextResponder" ref="338667583"/>
@@ -1714,7 +1753,7 @@ AqEEAQ</bytes>
 												<int key="NSTCFlags">1</int>
 											</object>
 											<object class="NSTextViewSharedData" key="NSSharedData">
-												<int key="NSFlags">100674533</int>
+												<int key="NSFlags">117582821</int>
 												<int key="NSTextCheckingTypes">0</int>
 												<nil key="NSMarkedAttributes"/>
 												<object class="NSColor" key="NSBackgroundColor" id="28277080">
@@ -1921,16 +1960,17 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">68157504</int>
 								<int key="NSCellFlags2">272630784</int>
 								<string key="NSContents">Money 4 試用版已經到期。</string>
-								<object class="NSFont" key="NSSupport" id="263798116">
-									<string key="NSName">LucidaGrande</string>
+								<object class="NSFont" key="NSSupport">
+									<string key="NSName">.LucidaGrandeUI</string>
 									<double key="NSSize">16</double>
-									<int key="NSfFlags">16</int>
+									<int key="NSfFlags">1044</int>
 								</object>
 								<reference key="NSControlView" ref="602082195"/>
 								<reference key="NSBackgroundColor" ref="489692605"/>
 								<reference key="NSTextColor" ref="77162200"/>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSTextField" id="449241402">
 							<reference key="NSNextResponder" ref="445928581"/>
@@ -1949,6 +1989,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<reference key="NSTextColor" ref="77162200"/>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSButton" id="100657797">
 							<reference key="NSNextResponder" ref="445928581"/>
@@ -2074,12 +2115,17 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">68157504</int>
 								<int key="NSCellFlags2">272630784</int>
 								<string key="NSContents">Money 4 測試版已經到期。</string>
-								<reference key="NSSupport" ref="263798116"/>
+								<object class="NSFont" key="NSSupport">
+									<string key="NSName">.LucidaGrandeUI</string>
+									<double key="NSSize">16</double>
+									<int key="NSfFlags">1044</int>
+								</object>
 								<reference key="NSControlView" ref="664038743"/>
 								<reference key="NSBackgroundColor" ref="489692605"/>
 								<reference key="NSTextColor" ref="77162200"/>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSTextField" id="272965179">
 							<reference key="NSNextResponder" ref="111404236"/>
@@ -2098,6 +2144,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<reference key="NSTextColor" ref="77162200"/>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 					</array>
 					<string key="NSFrameSize">{430, 183}</string>
@@ -2186,6 +2233,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<reference key="NSTextColor" ref="77162200"/>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSTextField" id="795347945">
 							<reference key="NSNextResponder" ref="274240826"/>
@@ -2204,6 +2252,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<reference key="NSTextColor" ref="77162200"/>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSTextField" id="125349950">
 							<reference key="NSNextResponder" ref="274240826"/>
@@ -2216,7 +2265,11 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">68157504</int>
 								<int key="NSCellFlags2">138413056</int>
 								<string key="NSContents">請輸入這個被保護帳號的密碼以繼續</string>
-								<reference key="NSSupport" ref="809010859"/>
+								<object class="NSFont" key="NSSupport">
+									<string key="NSName">.LucidaGrandeUI</string>
+									<double key="NSSize">14</double>
+									<int key="NSfFlags">1044</int>
+								</object>
 								<reference key="NSControlView" ref="125349950"/>
 								<reference key="NSBackgroundColor" ref="489692605"/>
 								<object class="NSColor" key="NSTextColor">
@@ -2225,6 +2278,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								</object>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSTextField" id="1009379543">
 							<reference key="NSNextResponder" ref="274240826"/>
@@ -2246,6 +2300,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								</object>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSTextField" id="381012735">
 							<reference key="NSNextResponder" ref="274240826"/>
@@ -2264,6 +2319,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<reference key="NSTextColor" ref="77162200"/>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSSecureTextField" id="622151711">
 							<reference key="NSNextResponder" ref="274240826"/>
@@ -2296,6 +2352,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								</array>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 					</array>
 					<string key="NSFrameSize">{480, 257}</string>
@@ -2372,12 +2429,17 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">68157504</int>
 								<int key="NSCellFlags2">138413056</int>
 								<string key="NSContents">輸入你的授權碼</string>
-								<reference key="NSSupport" ref="263798116"/>
+								<object class="NSFont" key="NSSupport">
+									<string key="NSName">.LucidaGrandeUI</string>
+									<double key="NSSize">16</double>
+									<int key="NSfFlags">1044</int>
+								</object>
 								<reference key="NSControlView" ref="898663244"/>
 								<reference key="NSBackgroundColor" ref="489692605"/>
 								<reference key="NSTextColor" ref="77162200"/>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 						<object class="NSTextField" id="623875726">
 							<reference key="NSNextResponder" ref="183012364"/>
@@ -2397,6 +2459,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<reference key="NSTextColor" ref="556053284"/>
 							</object>
 							<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
+							<int key="NSTextFieldAlignmentRectInsetsVersion">1</int>
 						</object>
 					</array>
 					<string key="NSFrameSize">{273, 125}</string>
