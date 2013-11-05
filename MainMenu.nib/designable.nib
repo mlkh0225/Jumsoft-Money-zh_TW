@@ -244,7 +244,7 @@
 								</object>
 								<object class="NSMenuItem" id="965162250">
 									<reference key="NSMenu" ref="287065493"/>
-									<string key="NSTitle">Save in Dropbox</string>
+									<string key="NSTitle">儲存到 Dropbox</string>
 									<string key="NSKeyEquiv"/>
 									<int key="NSMnemonicLoc">2147483647</int>
 									<reference key="NSOnImage" ref="385016679"/>
@@ -253,7 +253,7 @@
 								</object>
 								<object class="NSMenuItem" id="481814702">
 									<reference key="NSMenu" ref="287065493"/>
-									<string key="NSTitle">Open from Dropbox</string>
+									<string key="NSTitle">從 Dropbox 打開</string>
 									<string key="NSKeyEquiv"/>
 									<int key="NSMnemonicLoc">2147483647</int>
 									<reference key="NSOnImage" ref="385016679"/>
@@ -262,7 +262,7 @@
 									<int key="NSTag">2098</int>
 									<reference key="NSTarget" ref="408036810"/>
 									<object class="NSMenu" key="NSSubmenu" id="408036810">
-										<string key="NSTitle">Open from Dropbox</string>
+										<string key="NSTitle">從 Dropbox 打開</string>
 										<array class="NSMutableArray" key="NSMenuItems">
 											<object class="NSMenuItem" id="684244172">
 												<reference key="NSMenu" ref="408036810"/>
@@ -1375,10 +1375,10 @@
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">134217728</int>
 								<string key="NSContents">關閉</string>
-								<object class="NSFont" key="NSSupport" id="28">
+								<object class="NSFont" key="NSSupport" id="465117404">
 									<string key="NSName">.LucidaGrandeUI</string>
 									<double key="NSSize">12</double>
-									<int key="NSfFlags">4883</int>
+									<int key="NSfFlags">787</int>
 								</object>
 								<reference key="NSControlView" ref="414864656"/>
 								<int key="NSButtonFlags">-2041823232</int>
@@ -1431,7 +1431,7 @@
 								<int key="NSCellFlags">68157504</int>
 								<int key="NSCellFlags2">4195328</int>
 								<string key="NSContents">不再顯示</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="465117404"/>
 								<reference key="NSControlView" ref="727961540"/>
 								<reference key="NSBackgroundColor" ref="489692605"/>
 								<object class="NSColor" key="NSTextColor">
@@ -1983,7 +1983,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">68157504</int>
 								<int key="NSCellFlags2">272630784</int>
 								<string key="NSContents">感謝您的參與和回饋！</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="465117404"/>
 								<reference key="NSControlView" ref="449241402"/>
 								<reference key="NSBackgroundColor" ref="489692605"/>
 								<reference key="NSTextColor" ref="77162200"/>
@@ -2138,7 +2138,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">68157504</int>
 								<int key="NSCellFlags2">272630784</int>
 								<string key="NSContents">感謝您的參與和回饋！</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="465117404"/>
 								<reference key="NSControlView" ref="272965179"/>
 								<reference key="NSBackgroundColor" ref="489692605"/>
 								<reference key="NSTextColor" ref="77162200"/>
@@ -2178,7 +2178,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">134217728</int>
 								<string key="NSContents">確定</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="465117404"/>
 								<reference key="NSControlView" ref="351005842"/>
 								<int key="NSButtonFlags">-2041823232</int>
 								<int key="NSButtonFlags2">134</int>
@@ -2204,7 +2204,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">134217728</int>
 								<string key="NSContents">取消</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="465117404"/>
 								<reference key="NSControlView" ref="1068624310"/>
 								<int key="NSButtonFlags">-2041823232</int>
 								<int key="NSButtonFlags2">134</int>
@@ -2291,7 +2291,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">68157504</int>
 								<int key="NSCellFlags2">138413056</int>
 								<string key="NSContents">注意：帳號密碼在 Money 4 無法使用。</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="465117404"/>
 								<reference key="NSControlView" ref="1009379543"/>
 								<reference key="NSBackgroundColor" ref="489692605"/>
 								<object class="NSColor" key="NSTextColor">

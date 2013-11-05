@@ -177,10 +177,10 @@
 																							<int key="NSCellFlags">67108864</int>
 																							<int key="NSCellFlags2">0</int>
 																							<string key="NSContents">Text Cell</string>
-																							<object class="NSFont" key="NSSupport" id="28">
+																							<object class="NSFont" key="NSSupport" id="23368880">
 																								<string key="NSName">.LucidaGrandeUI</string>
 																								<double key="NSSize">12</double>
-																								<int key="NSfFlags">4883</int>
+																								<int key="NSfFlags">787</int>
 																							</object>
 																							<reference key="NSControlView" ref="324632850"/>
 																							<object class="NSColor" key="NSBackgroundColor" id="908456693">
@@ -629,7 +629,7 @@
 																	<int key="NSCellFlags">-2080374784</int>
 																	<int key="NSCellFlags2">134217728</int>
 																	<string key="NSContents">100 %</string>
-																	<reference key="NSSupport" ref="28"/>
+																	<reference key="NSSupport" ref="23368880"/>
 																	<reference key="NSControlView" ref="932077578"/>
 																	<int key="NSButtonFlags">-2038153216</int>
 																	<int key="NSButtonFlags2">164</int>
@@ -650,7 +650,7 @@
 																<object class="NSPopUpButtonCell" key="NSCell" id="582450528">
 																	<int key="NSCellFlags">-2080374720</int>
 																	<int key="NSCellFlags2">134219776</int>
-																	<reference key="NSSupport" ref="28"/>
+																	<reference key="NSSupport" ref="23368880"/>
 																	<reference key="NSControlView" ref="86578329"/>
 																	<int key="NSButtonFlags">-2038284288</int>
 																	<int key="NSButtonFlags2">164</int>
@@ -839,7 +839,7 @@
 																	<int key="NSCellFlags">68157504</int>
 																	<int key="NSCellFlags2">138413056</int>
 																	<string key="NSContents">標籤</string>
-																	<reference key="NSSupport" ref="28"/>
+																	<reference key="NSSupport" ref="23368880"/>
 																	<reference key="NSControlView" ref="157273812"/>
 																	<object class="NSColor" key="NSBackgroundColor">
 																		<int key="NSColorSpace">1</int>
@@ -7201,7 +7201,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 																										<int key="NSCellFlags">68157504</int>
 																										<int key="NSCellFlags2">272630784</int>
 																										<string key="NSContents">(do not localize) Syncing ...</string>
-																										<reference key="NSSupport" ref="28"/>
+																										<reference key="NSSupport" ref="23368880"/>
 																										<reference key="NSControlView" ref="261729820"/>
 																										<reference key="NSBackgroundColor" ref="800329811"/>
 																										<reference key="NSTextColor" ref="309447717"/>
@@ -7229,7 +7229,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 																										<int key="NSCellFlags">68157504</int>
 																										<int key="NSCellFlags2">272630784</int>
 																										<string key="NSContents">_</string>
-																										<reference key="NSSupport" ref="28"/>
+																										<reference key="NSSupport" ref="23368880"/>
 																										<reference key="NSControlView" ref="525733482"/>
 																										<reference key="NSBackgroundColor" ref="800329811"/>
 																										<reference key="NSTextColor" ref="309447717"/>
@@ -7370,7 +7370,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 																										<int key="NSCellFlags">68157504</int>
 																										<int key="NSCellFlags2">272630784</int>
 																										<string key="NSContents">無</string>
-																										<reference key="NSSupport" ref="28"/>
+																										<reference key="NSSupport" ref="23368880"/>
 																										<reference key="NSControlView" ref="652095611"/>
 																										<reference key="NSBackgroundColor" ref="800329811"/>
 																										<reference key="NSTextColor" ref="309447717"/>
@@ -7468,7 +7468,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 																										<int key="NSCellFlags">68157504</int>
 																										<int key="NSCellFlags2">138413056</int>
 																										<string key="NSContents">到裝置 "設定 -&gt; 同步 -&gt; 設定資料庫" 並輸入顯示的代碼。</string>
-																										<reference key="NSSupport" ref="28"/>
+																										<reference key="NSSupport" ref="23368880"/>
 																										<reference key="NSControlView" ref="741110380"/>
 																										<reference key="NSBackgroundColor" ref="800329811"/>
 																										<reference key="NSTextColor" ref="309447717"/>
@@ -12019,7 +12019,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 																																								<int key="NSCellFlags">337641536</int>
 																																								<int key="NSCellFlags2">2048</int>
 																																								<string key="NSContents">Text Cell</string>
-																																								<reference key="NSSupport" ref="28"/>
+																																								<reference key="NSSupport" ref="23368880"/>
 																																								<reference key="NSControlView" ref="539992073"/>
 																																								<reference key="NSBackgroundColor" ref="866323874"/>
 																																								<reference key="NSTextColor" ref="309447717"/>
@@ -12046,7 +12046,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 																																								<int key="NSCellFlags">67108864</int>
 																																								<int key="NSCellFlags2">134217728</int>
 																																								<string key="NSContents"/>
-																																								<reference key="NSSupport" ref="28"/>
+																																								<reference key="NSSupport" ref="23368880"/>
 																																								<reference key="NSControlView" ref="539992073"/>
 																																								<int key="NSButtonFlags">135020544</int>
 																																								<int key="NSButtonFlags2">6</int>
@@ -12619,7 +12619,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 																												<int key="NSCellFlags">-2080374784</int>
 																												<int key="NSCellFlags2">134217728</int>
 																												<string key="NSContents">編輯</string>
-																												<reference key="NSSupport" ref="28"/>
+																												<reference key="NSSupport" ref="23368880"/>
 																												<reference key="NSControlView" ref="520582521"/>
 																												<int key="NSButtonFlags">-2038153216</int>
 																												<int key="NSButtonFlags2">164</int>
@@ -13525,7 +13525,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 																												<int key="NSCellFlags">-2080374784</int>
 																												<int key="NSCellFlags2">134217728</int>
 																												<string key="NSContents">編輯</string>
-																												<reference key="NSSupport" ref="28"/>
+																												<reference key="NSSupport" ref="23368880"/>
 																												<reference key="NSControlView" ref="348010472"/>
 																												<int key="NSButtonFlags">-2038153216</int>
 																												<int key="NSButtonFlags2">164</int>
@@ -15119,7 +15119,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 							<object class="NSPopUpButtonCell" key="NSCell" id="386139377">
 								<int key="NSCellFlags">-2076180416</int>
 								<int key="NSCellFlags2">134219776</int>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="830417248"/>
 								<int key="NSButtonFlags">-2038284288</int>
 								<int key="NSButtonFlags2">36</int>
@@ -15688,7 +15688,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">再次輸入：</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="343097458"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -15791,7 +15791,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">603979776</int>
 								<int key="NSCellFlags2">0</int>
 								<string key="NSContents">已關閉帳戶</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="133977766"/>
 								<int key="NSButtonFlags">1211912192</int>
 								<int key="NSButtonFlags2">2</int>
@@ -15843,7 +15843,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">帳號名稱</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="759345639"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -15862,7 +15862,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">起始結餘</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="779384491"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -15936,7 +15936,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">信用額度</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="745195155"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -15955,7 +15955,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">使用者</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="460227154"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -15974,7 +15974,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">密碼</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="37667797"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -15993,7 +15993,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">正在下載帳號…</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="145875674"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -16054,7 +16054,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">密碼</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="860173849"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -16376,7 +16376,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">帳號類型</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="61946462"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -16740,7 +16740,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 										<int key="NSCellFlags">67108864</int>
 										<int key="NSCellFlags2">71303168</int>
 										<string key="NSContents">使用帳號</string>
-										<reference key="NSSupport" ref="28"/>
+										<reference key="NSSupport" ref="23368880"/>
 										<reference key="NSControlView" ref="1018426048"/>
 										<reference key="NSBackgroundColor" ref="800329811"/>
 										<reference key="NSTextColor" ref="309447717"/>
@@ -16996,7 +16996,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 										<int key="NSCellFlags">67108864</int>
 										<int key="NSCellFlags2">71303168</int>
 										<string key="NSContents">付款於每</string>
-										<reference key="NSSupport" ref="28"/>
+										<reference key="NSSupport" ref="23368880"/>
 										<reference key="NSControlView" ref="914136101"/>
 										<reference key="NSBackgroundColor" ref="800329811"/>
 										<reference key="NSTextColor" ref="309447717"/>
@@ -17037,7 +17037,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 										<int key="NSCellFlags">67108864</int>
 										<int key="NSCellFlags2">71303168</int>
 										<string key="NSContents">開始日期</string>
-										<reference key="NSSupport" ref="28"/>
+										<reference key="NSSupport" ref="23368880"/>
 										<reference key="NSControlView" ref="893047241"/>
 										<reference key="NSBackgroundColor" ref="800329811"/>
 										<reference key="NSTextColor" ref="309447717"/>
@@ -17075,7 +17075,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 										<int key="NSCellFlags">67108864</int>
 										<int key="NSCellFlags2">71303168</int>
 										<string key="NSContents">年利率</string>
-										<reference key="NSSupport" ref="28"/>
+										<reference key="NSSupport" ref="23368880"/>
 										<reference key="NSControlView" ref="992052270"/>
 										<reference key="NSBackgroundColor" ref="800329811"/>
 										<reference key="NSTextColor" ref="309447717"/>
@@ -17252,7 +17252,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 										<int key="NSCellFlags">67108864</int>
 										<int key="NSCellFlags2">71303168</int>
 										<string key="NSContents">期限</string>
-										<reference key="NSSupport" ref="28"/>
+										<reference key="NSSupport" ref="23368880"/>
 										<reference key="NSControlView" ref="958652948"/>
 										<reference key="NSBackgroundColor" ref="800329811"/>
 										<reference key="NSTextColor" ref="309447717"/>
@@ -17371,7 +17371,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">開始日期</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="203868615"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -17589,7 +17589,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 																<int key="NSCellFlags">337641536</int>
 																<int key="NSCellFlags2">2048</int>
 																<string key="NSContents">Text Cell</string>
-																<reference key="NSSupport" ref="28"/>
+																<reference key="NSSupport" ref="23368880"/>
 																<reference key="NSControlView" ref="31291318"/>
 																<reference key="NSBackgroundColor" ref="866323874"/>
 																<object class="NSColor" key="NSTextColor" id="2498">
@@ -17740,7 +17740,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 																<int key="NSCellFlags">337641536</int>
 																<int key="NSCellFlags2">2048</int>
 																<string key="NSContents">Text Cell</string>
-																<reference key="NSSupport" ref="28"/>
+																<reference key="NSSupport" ref="23368880"/>
 																<reference key="NSControlView" ref="937189222"/>
 																<reference key="NSBackgroundColor" ref="866323874"/>
 																<reference key="NSTextColor" ref="33834511"/>
@@ -17887,7 +17887,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 																<int key="NSCellFlags">337641536</int>
 																<int key="NSCellFlags2">2048</int>
 																<string key="NSContents">Text Cell</string>
-																<reference key="NSSupport" ref="28"/>
+																<reference key="NSSupport" ref="23368880"/>
 																<reference key="NSControlView" ref="670919601"/>
 																<reference key="NSBackgroundColor" ref="866323874"/>
 																<reference key="NSTextColor" ref="2498"/>
@@ -19514,7 +19514,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 																<int key="NSCellFlags">337641536</int>
 																<int key="NSCellFlags2">2048</int>
 																<string key="NSContents">Text Cell</string>
-																<reference key="NSSupport" ref="28"/>
+																<reference key="NSSupport" ref="23368880"/>
 																<reference key="NSControlView" ref="503505734"/>
 																<reference key="NSBackgroundColor" ref="866323874"/>
 																<reference key="NSTextColor" ref="2498"/>
@@ -20533,7 +20533,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">68157504</int>
 								<int key="NSCellFlags2">71304192</int>
 								<string key="NSContents">智慧型帳號：</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="26618586"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -20577,15 +20577,15 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 													<reference key="NSNextResponder" ref="864598827"/>
 													<int key="NSvFlags">274</int>
 													<array class="NSMutableArray" key="NSSubviews">
-														<object class="NSRuleEditorViewSliceRow" id="869226664">
+														<object class="NSRuleEditorViewSliceRow" id="606217108">
 															<reference key="NSNextResponder" ref="104336671"/>
 															<int key="NSvFlags">290</int>
 															<array class="NSMutableArray" key="NSSubviews">
-																<object class="NSButton" id="600523972">
-																	<reference key="NSNextResponder" ref="869226664"/>
+																<object class="NSButton" id="617277436">
+																	<reference key="NSNextResponder" ref="606217108"/>
 																	<int key="NSvFlags">257</int>
 																	<string key="NSFrame">{{531, 4}, {18, 18}}</string>
-																	<reference key="NSSuperview" ref="869226664"/>
+																	<reference key="NSSuperview" ref="606217108"/>
 																	<reference key="NSNextKeyView" ref="677435091"/>
 																	<int key="NSTag">-1</int>
 																	<bool key="NSEnabled">YES</bool>
@@ -20604,24 +20604,28 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 																				<integer value="1" key="NSAccessibilityEncodedAttributesValueType"/>
 																			</dictionary>
 																		</array>
-																		<reference key="NSControlView" ref="600523972"/>
+																		<reference key="NSControlView" ref="617277436"/>
 																		<string key="NSAction">_addOption:</string>
-																		<reference key="NSTarget" ref="869226664"/>
+																		<reference key="NSTarget" ref="606217108"/>
 																		<int key="NSButtonFlags">-2038284288</int>
 																		<int key="NSButtonFlags2">36</int>
-																		<reference key="NSAlternateImage" ref="28"/>
+																		<object class="NSFont" key="NSAlternateImage" id="28">
+																			<string key="NSName">.LucidaGrandeUI</string>
+																			<double key="NSSize">12</double>
+																			<int key="NSfFlags">4883</int>
+																		</object>
 																		<string key="NSKeyEquivalent"/>
 																		<int key="NSPeriodicDelay">400</int>
 																		<int key="NSPeriodicInterval">75</int>
 																	</object>
 																	<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
 																</object>
-																<object class="NSButton" id="1010673606">
-																	<reference key="NSNextResponder" ref="869226664"/>
+																<object class="NSButton" id="218551449">
+																	<reference key="NSNextResponder" ref="606217108"/>
 																	<int key="NSvFlags">-2147483391</int>
 																	<string key="NSFrame">{{511, 4}, {18, 18}}</string>
-																	<reference key="NSSuperview" ref="869226664"/>
-																	<reference key="NSNextKeyView" ref="600523972"/>
+																	<reference key="NSSuperview" ref="606217108"/>
+																	<reference key="NSNextKeyView" ref="617277436"/>
 																	<int key="NSTag">-1</int>
 																	<bool key="NSEnabled">YES</bool>
 																	<object class="NSRuleEditorButtonCell" key="NSCell">
@@ -20639,9 +20643,9 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 																				<integer value="1" key="NSAccessibilityEncodedAttributesValueType"/>
 																			</dictionary>
 																		</array>
-																		<reference key="NSControlView" ref="1010673606"/>
+																		<reference key="NSControlView" ref="218551449"/>
 																		<string key="NSAction">_deleteOption:</string>
-																		<reference key="NSTarget" ref="869226664"/>
+																		<reference key="NSTarget" ref="606217108"/>
 																		<int key="NSButtonFlags">-2038284288</int>
 																		<int key="NSButtonFlags2">36</int>
 																		<reference key="NSAlternateImage" ref="28"/>
@@ -20652,10 +20656,10 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 																	<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
 																</object>
 																<object class="NSPopUpButton" id="992728524">
-																	<reference key="NSNextResponder" ref="869226664"/>
+																	<reference key="NSNextResponder" ref="606217108"/>
 																	<int key="NSvFlags">256</int>
 																	<string key="NSFrame">{{7, 3}, {58, 19}}</string>
-																	<reference key="NSSuperview" ref="869226664"/>
+																	<reference key="NSSuperview" ref="606217108"/>
 																	<reference key="NSNextKeyView" ref="354270"/>
 																	<int key="NSTag">-1</int>
 																	<bool key="NSEnabled">YES</bool>
@@ -20723,11 +20727,11 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 																	<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
 																</object>
 																<object class="NSPopUpButton" id="354270">
-																	<reference key="NSNextResponder" ref="869226664"/>
+																	<reference key="NSNextResponder" ref="606217108"/>
 																	<int key="NSvFlags">256</int>
 																	<string key="NSFrame">{{71, 3}, {167, 19}}</string>
-																	<reference key="NSSuperview" ref="869226664"/>
-																	<reference key="NSNextKeyView" ref="1010673606"/>
+																	<reference key="NSSuperview" ref="606217108"/>
+																	<reference key="NSNextKeyView" ref="218551449"/>
 																	<int key="NSTag">-1</int>
 																	<bool key="NSEnabled">YES</bool>
 																	<object class="NSPopUpButtonCell" key="NSCell" id="502720697">
@@ -20783,7 +20787,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 															<string key="NSRuleOptionFrames.0">{{7, 3}, {58, 19}}</string>
 															<string key="NSRuleOptionFrames.1">{{71, 3}, {167, 19}}</string>
 															<array class="NSMutableArray" key="NSRuleOptionItems">
-																<dictionary class="NSMutableDictionary" id="811843190">
+																<dictionary class="NSMutableDictionary" id="532039070">
 																	<integer value="1" key="depth"/>
 																	<object class="NSPredicateEditorRowTemplate" key="pattern" id="889421585">
 																		<int key="NSPredicateTemplateType">2</int>
@@ -20799,7 +20803,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 																		<bool key="NSPredicateTemplateRightIsWildcard">NO</bool>
 																	</object>
 																</dictionary>
-																<dictionary class="NSMutableDictionary" id="1062869618">
+																<dictionary class="NSMutableDictionary" id="712404002">
 																	<integer value="2" key="depth"/>
 																	<reference key="pattern" ref="889421585"/>
 																</dictionary>
@@ -20807,8 +20811,8 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 															<int key="NSRuleOptionInitialFrames.count">2</int>
 															<string key="NSRuleOptionInitialFrames.0">{{7, 3}, {58, 19}}</string>
 															<string key="NSRuleOptionInitialFrames.1">{{71, 3}, {167, 19}}</string>
-															<reference key="NSRuleOptionAddButton" ref="600523972"/>
-															<reference key="NSRuleOptionSubtractButton" ref="1010673606"/>
+															<reference key="NSRuleOptionAddButton" ref="617277436"/>
+															<reference key="NSRuleOptionSubtractButton" ref="218551449"/>
 															<int key="NSRuleOptionRowType">0</int>
 															<int key="NSRuleOptionPlusButtonRowType">0</int>
 															<bool key="NSRuleOptionEditable">YES</bool>
@@ -25851,7 +25855,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 													</array>
 													<string key="NSFrame">{{1, 1}, {559, 423}}</string>
 													<reference key="NSSuperview" ref="864598827"/>
-													<reference key="NSNextKeyView" ref="869226664"/>
+													<reference key="NSNextKeyView" ref="606217108"/>
 												</object>
 											</array>
 											<set class="NSMutableSet" key="NSDragTypes">
@@ -25880,8 +25884,8 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 												<array class="NSMutableArray" key="NSBoundArray">
 													<dictionary class="NSMutableDictionary">
 														<array class="NSMutableArray" key="criteria">
-															<reference ref="811843190"/>
-															<reference ref="1062869618"/>
+															<reference ref="532039070"/>
+															<reference ref="712404002"/>
 														</array>
 														<array class="NSMutableArray" key="displayValues">
 															<reference ref="992728524"/>
@@ -26118,7 +26122,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 												</array>
 											</object>
 											<array class="NSMutableArray" key="NSRuleEditorSlices">
-												<reference ref="869226664"/>
+												<reference ref="606217108"/>
 												<reference ref="677435091"/>
 												<reference ref="934100130"/>
 												<reference ref="538873433"/>
@@ -26309,7 +26313,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">名稱</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="602462877"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -26328,7 +26332,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">類型</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="389188084"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -26347,7 +26351,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">開始日期</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="1032062695"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -26366,7 +26370,7 @@ AAEAAQAAAT0AAwAAAAEAAgAAAVIAAwAAAAEAAQAAAVMAAwAAAAIAAQABAAAAAA</bytes>
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">結束日期</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="17162987"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -27024,7 +27028,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">68157504</int>
 								<int key="NSCellFlags2">272630784</int>
 								<string key="NSContents">帳號</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="482448402"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -27458,7 +27462,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">68157504</int>
 								<int key="NSCellFlags2">71304192</int>
 								<string key="NSContents">金額</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="297336454"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -27477,7 +27481,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">68157504</int>
 								<int key="NSCellFlags2">71304192</int>
 								<string key="NSContents">日期</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="368106648"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -27627,7 +27631,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">-2080374784</int>
 								<int key="NSCellFlags2">131072</int>
 								<string key="NSContents"/>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="492878978"/>
 								<int key="NSButtonFlags">1211912192</int>
 								<int key="NSButtonFlags2">130</int>
@@ -28288,7 +28292,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">68157504</int>
 								<int key="NSCellFlags2">71304192</int>
 								<string key="NSContents">日期</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="886939019"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -28946,7 +28950,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">名稱</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="237099871"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -36524,7 +36528,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">名稱</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="958449639"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -36563,7 +36567,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">代碼</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="637717551"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -36602,7 +36606,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">報價</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="134525296"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -36758,7 +36762,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">比例</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="200280664"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -36777,7 +36781,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">代碼</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="302870967"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -36816,7 +36820,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">138412032</int>
 								<string key="NSContents"> / </string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="978900207"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -36972,7 +36976,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">股份：</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="444627012"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -37011,7 +37015,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">價格：</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="580048802"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -37050,7 +37054,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">佣金：</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="914794791"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -37069,7 +37073,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">代碼：</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="791424213"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -37381,7 +37385,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">帳號：</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="652383158"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -37400,7 +37404,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">日期：</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="514122528"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -37419,7 +37423,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">67108864</int>
 								<int key="NSCellFlags2">71303168</int>
 								<string key="NSContents">收款人：</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="1617584"/>
 								<reference key="NSBackgroundColor" ref="800329811"/>
 								<reference key="NSTextColor" ref="309447717"/>
@@ -39979,7 +39983,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 							<object class="NSPopUpButtonCell" key="NSCell" id="279923198">
 								<int key="NSCellFlags">-2076180416</int>
 								<int key="NSCellFlags2">2048</int>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="739620160"/>
 								<int key="NSButtonFlags">-2038284288</int>
 								<int key="NSButtonFlags2">36</int>
@@ -40069,7 +40073,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 							<object class="NSPopUpButtonCell" key="NSCell" id="594211185">
 								<int key="NSCellFlags">-2076180416</int>
 								<int key="NSCellFlags2">2048</int>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="322913362"/>
 								<int key="NSButtonFlags">-2038284288</int>
 								<int key="NSButtonFlags2">36</int>
@@ -40141,7 +40145,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 								<int key="NSCellFlags">-2080374784</int>
 								<int key="NSCellFlags2">0</int>
 								<string key="NSContents">輸入名稱欄位為收款人</string>
-								<reference key="NSSupport" ref="28"/>
+								<reference key="NSSupport" ref="23368880"/>
 								<reference key="NSControlView" ref="303877983"/>
 								<int key="NSButtonFlags">1211912192</int>
 								<int key="NSButtonFlags2">2</int>
@@ -43034,7 +43038,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 										<int key="NSCellFlags">67108864</int>
 										<int key="NSCellFlags2">71303168</int>
 										<string key="NSContents">頻率</string>
-										<reference key="NSSupport" ref="28"/>
+										<reference key="NSSupport" ref="23368880"/>
 										<reference key="NSControlView" ref="570696049"/>
 										<reference key="NSBackgroundColor" ref="800329811"/>
 										<reference key="NSTextColor" ref="309447717"/>
