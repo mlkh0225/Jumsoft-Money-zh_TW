@@ -29379,7 +29379,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 										</object>
 										<object class="NSMenuItem" id="567989761">
 											<reference key="NSMenu" ref="526497600"/>
-											<string key="NSTitle">前年</string>
+											<string key="NSTitle">去年</string>
 											<string key="NSKeyEquiv"/>
 											<int key="NSKeyEquivModMask">1048576</int>
 											<int key="NSMnemonicLoc">2147483647</int>
@@ -29507,7 +29507,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 												<reference ref="893316174"/>
 												<object class="NSMenuItem" id="477722047">
 													<reference key="NSMenu" ref="548632937"/>
-													<string key="NSTitle">前年</string>
+													<string key="NSTitle">去年</string>
 													<string key="NSKeyEquiv"/>
 													<int key="NSKeyEquivModMask">1048576</int>
 													<int key="NSMnemonicLoc">2147483647</int>
@@ -29744,7 +29744,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 												</object>
 												<object class="NSMenuItem" id="623108895">
 													<reference key="NSMenu" ref="884472426"/>
-													<string key="NSTitle">週</string>
+													<string key="NSTitle">一週</string>
 													<string key="NSKeyEquiv"/>
 													<int key="NSKeyEquivModMask">1048576</int>
 													<int key="NSMnemonicLoc">2147483647</int>
@@ -29768,7 +29768,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 												</object>
 												<object class="NSMenuItem" id="626716898">
 													<reference key="NSMenu" ref="884472426"/>
-													<string key="NSTitle">個月</string>
+													<string key="NSTitle">月份</string>
 													<string key="NSKeyEquiv"/>
 													<int key="NSKeyEquivModMask">1048576</int>
 													<int key="NSMnemonicLoc">2147483647</int>
@@ -29804,7 +29804,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 												</object>
 												<object class="NSMenuItem" id="8148">
 													<reference key="NSMenu" ref="884472426"/>
-													<string key="NSTitle">年</string>
+													<string key="NSTitle">年份</string>
 													<string key="NSKeyEquiv"/>
 													<int key="NSKeyEquivModMask">1048576</int>
 													<int key="NSMnemonicLoc">2147483647</int>
