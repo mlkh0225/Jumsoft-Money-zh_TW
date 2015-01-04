@@ -21,3 +21,8 @@ Jumsoft Money 正體中文（台灣）語系
     Money 4.4.2 正體中文語系：http://goo.gl/bqDTNI
     
     Money 4.4.5 正體中文語系：http://goo.gl/2zVEe5
+
+修改注意
+===================
+
+專案以 iLocalize 管理，Commit 前務必檢查 Layout 是否正常。
